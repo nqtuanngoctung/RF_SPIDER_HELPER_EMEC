@@ -1,0 +1,1322 @@
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\bin\Release\APP_KTRA_ROUTER.Android.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\bin\Release\APP_KTRA_ROUTER.Android.pdb
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\bin\Release\com.companyname.app_ktra_router.apk
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\bin\Release\com.companyname.app_ktra_router.aab
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\bin\Release\com.companyname.app_ktra_router-Signed.aab
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\bin\Release\com.companyname.app_ktra_router-Signed.apk
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\bin\Release\APP_KTRA_ROUTER.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\bin\Release\APP_KTRA_ROUTER.pdb
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\build.props
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\adb.props
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\APP_KTRA_ROUTER.Android.csprojAssemblyReference.cache
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\_VerifyXamarinAndroidSupportVersions.stamp
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\stamp\_BuildLibraryImportsCache.stamp
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res.flag
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\E5384E0C972E3CB0.stamp
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\7DA12DBBEB2E7220.stamp
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\39E54272FE2E6F18.stamp
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\AE89A31F6A088D5B.stamp
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\EACDCCD67F089063.stamp
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\921C351B25039F59.stamp
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\1A94EB890E03A529.stamp
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\6E10A32621646598.stamp
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\2A54CCEF346478A0.stamp
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\71F49CD99E42BDAB.stamp
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\9EB1973DAD46765F.stamp
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\914415E74560DA8C.stamp
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\2EB296A1FBAA374B.stamp
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\B62BF51687AA79DB.stamp
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\F26F9ADF92AA64E3.stamp
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\3EA32B84ACAA43AB.stamp
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\02CEAEC41E887724.stamp
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\8A46705635884D54.stamp
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\CE021F9F2088506C.stamp
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\569B7C285C881EFC.stamp
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\9A57CD73628839B4.stamp
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\DE13A2BA7788248C.stamp
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\0D3B2C1EF6AEDBF7.stamp
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\EED385DC4DEFF905.stamp
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\E5384E0C972E3CB0.flata
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\7DA12DBBEB2E7220.flata
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\39E54272FE2E6F18.flata
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\AE89A31F6A088D5B.flata
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\EACDCCD67F089063.flata
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\921C351B25039F59.flata
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\1A94EB890E03A529.flata
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\6E10A32621646598.flata
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\2A54CCEF346478A0.flata
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\71F49CD99E42BDAB.flata
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\9EB1973DAD46765F.flata
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\914415E74560DA8C.flata
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\2EB296A1FBAA374B.flata
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\B62BF51687AA79DB.flata
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\F26F9ADF92AA64E3.flata
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\3EA32B84ACAA43AB.flata
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\02CEAEC41E887724.flata
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\8A46705635884D54.flata
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\CE021F9F2088506C.flata
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\569B7C285C881EFC.flata
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\9A57CD73628839B4.flata
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\DE13A2BA7788248C.flata
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\0D3B2C1EF6AEDBF7.flata
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\EED385DC4DEFF905.flata
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\compiled.flata
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\R.txt
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\R.cs.flag
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\APP_KTRA_ROUTER.Android.csproj.CoreCompileInputs.cache
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\XamlC.stamp
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\APP_KTRA_ROUTER.Android.csproj.CopyComplete
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\APP_KTRA_ROUTER.Android.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\APP_KTRA_ROUTER.Android.pdb
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\bin\com.companyname.app_ktra_router.apk
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\bin\base.zip
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\bin\com.companyname.app_ktra_router.aab
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\bin\com.companyname.app_ktra_router.apks
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\layout\tabbar.xml
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\layout\toolbar.xml
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\values\styles.xml
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\values\colors.xml
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\mipmap-anydpi-v26\icon.xml
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\mipmap-anydpi-v26\icon_round.xml
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\mipmap-hdpi\icon.png
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\mipmap-hdpi\launcher_foreground.png
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\mipmap-mdpi\icon.png
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\mipmap-mdpi\launcher_foreground.png
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\mipmap-xhdpi\icon.png
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\mipmap-xhdpi\launcher_foreground.png
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\mipmap-xxhdpi\icon.png
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\mipmap-xxhdpi\launcher_foreground.png
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\mipmap-xxxhdpi\icon.png
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\mipmap-xxxhdpi\launcher_foreground.png
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\drawable\xamarin_logo.png
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\drawable\tab_about.png
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\drawable\tab_feed.png
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\drawable\logo.png
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\drawable\password.png
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\drawable\user.png
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\drawable\setting.png
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\drawable\close.png
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\mipmap-xhdpi\logo.png
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\mipmap-xxhdpi\logo.png
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\mipmap-xxxhdpi\logo.png
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\drawable\flashscreen.xml
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\drawable\plash.png
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\drawable\check.png
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\drawable\ic_check.png
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\drawable\online.png
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\drawable\offline.png
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\drawable\history.png
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\drawable\khampha.png
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\drawable\search.png
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\uploadflags.txt
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\resolvedassemblies.hash
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\link.flag
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\AndHUD.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\APP_KTRA_ROUTER.Android.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\APP_KTRA_ROUTER.Android.pdb
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\APP_KTRA_ROUTER.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\APP_KTRA_ROUTER.pdb
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\FastAndroidCamera.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\FormsViewGroup.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\FormsViewGroup.pdb
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Java.Interop.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Microsoft.CSharp.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Microsoft.CSharp.pdb
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Mono.Android.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Mono.Android.pdb
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Mono.Security.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Mono.Security.pdb
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\MQTTnet.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\mscorlib.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\mscorlib.pdb
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Newtonsoft.Json.Bson.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Newtonsoft.Json.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Plugin.Connectivity.Abstractions.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Plugin.Connectivity.Abstractions.pdb
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Plugin.Connectivity.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Plugin.Connectivity.dll.mdb
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Plugin.Connectivity.pdb
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Plugin.Media.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Plugin.Media.pdb
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Rg.Plugins.Popup.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Rg.Plugins.Popup.pdb
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Syncfusion.Buttons.XForms.Android.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Syncfusion.Buttons.XForms.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Syncfusion.Core.XForms.Android.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Syncfusion.Core.XForms.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Syncfusion.Data.Portable.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Syncfusion.GridCommon.Portable.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Syncfusion.Licensing.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Syncfusion.SfComboBox.XForms.Android.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Syncfusion.SfComboBox.XForms.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Syncfusion.SfDataGrid.XForms.Android.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Syncfusion.SfDataGrid.XForms.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Syncfusion.SfNumericTextBox.Android.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Syncfusion.SfNumericTextBox.XForms.Android.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Syncfusion.SfNumericTextBox.XForms.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.Core.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.Core.pdb
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.Data.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.Data.pdb
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.Drawing.Common.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.Drawing.Common.pdb
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.Net.Http.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.Net.Http.Formatting.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.Net.Http.pdb
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.Numerics.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.Numerics.pdb
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.pdb
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.Runtime.Serialization.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.Runtime.Serialization.pdb
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.ServiceModel.Internals.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.ServiceModel.Internals.pdb
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.Xml.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.Xml.Linq.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.Xml.Linq.pdb
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.Xml.pdb
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\TEditor.Abstractions.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\TEditor.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\TEditor.pdb
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Annotations.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Collections.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Compat.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.CustomView.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Design.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Fragment.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Loader.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Print.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Transition.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Essentials.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Essentials.pdb
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Forms.Core.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Forms.Core.pdb
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Forms.Maps.Android.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Forms.Maps.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Forms.Material.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Forms.Material.pdb
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Forms.Platform.Android.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Forms.Platform.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Forms.Xaml.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Forms.Xaml.pdb
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.GooglePlayServices.Base.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.GooglePlayServices.Basement.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.GooglePlayServices.Maps.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.GooglePlayServices.Tasks.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\ZXing.Net.Mobile.Core.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\ZXing.Net.Mobile.Forms.Android.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\ZXing.Net.Mobile.Forms.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\zxing.portable.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\ZXingNetMobile.dll
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\typemaps.armeabi-v7a.s
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\typemaps.arm64-v8a.s
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\typemaps.armeabi-v7a-managed.inc
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\typemaps.arm64-v8a-managed.inc
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\typemaps.armeabi-v7a-shared.inc
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\typemaps.shared.inc
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\AndroidManifest.xml
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\__environment__.txt
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\MonoRuntimeProvider.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\machine.config
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\bin\mono.android.jar
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\static.flag
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\buildid.txt
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\environment.armeabi-v7a.s
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\environment.arm64-v8a.s
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\androidhud\ProgressWheel.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\androidhud\ProgressWheel_SpinHandler.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\android\support\compat\R.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\android\support\coordinatorlayout\R.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\android\support\customtabs\R.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\android\support\design\R.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\android\support\mediacompat\R.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\android\support\transition\R.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\android\support\v7\appcompat\R.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\android\support\v7\cardview\R.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\android\support\v7\recyclerview\R.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\com\google\android\gms\base\R.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\com\google\android\gms\common\R.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\com\google\android\gms\maps\R.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc640879981a986d658b\SfGradientViewRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc640cbed5f9e34be698\AlphaPatternDrawable.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc640cbed5f9e34be698\ColorPickerDialog.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc640cbed5f9e34be698\ColorPickerPanelView.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc640cbed5f9e34be698\ColorPickerView.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc640cbed5f9e34be698\RoundColorPickerDialog.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc640cbed5f9e34be698\RoundColorPickerView.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc641ad53e8602239f1d\MainActivity.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc641ad53e8602239f1d\SplashActivity.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6427ea3917517e908b\ZXingBarcodeImageViewRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6427ea3917517e908b\ZXingScannerViewRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc642fed3152aaceafc3\CloseButtonView.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc642fed3152aaceafc3\ItemAdapter.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc642fed3152aaceafc3\MultiSelectLayout.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc642fed3152aaceafc3\SfComboBox.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc642fed3152aaceafc3\TokenViewGroup.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc642fed3152aaceafc3\ViewHolder.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643dd37f507f3d9710\PopupPageRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643ddf594df781e5ec\SfBorderRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643eead1a2954d3917\CameraEventsListener.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ContainerView.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EllipseRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EllipseView.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable_GradientShaderFactory.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\LineRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\LineView.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\MediaElementRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PageContainer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PathRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PathView.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PolygonRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PolygonView.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PolylineRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PolylineView.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\RectangleRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\RectView.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShapeView.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc644103bb497e895a1b\InputLayoutBorder.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc644103bb497e895a1b\InputLayoutBorderRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc644103bb497e895a1b\InputLayoutClearButtonViewRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc644103bb497e895a1b\InputLayoutClearButtonViewRenderer_GestureListener.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc644103bb497e895a1b\InputLayoutToggleViewRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc644103bb497e895a1b\InputLayoutToggleViewRenderer_GestureListener.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc644103bb497e895a1b\SfTextInputLayoutRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc645588d8d4506f22af\GridCaptionCellRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc645588d8d4506f22af\GridTableSummaryCellRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc645588d8d4506f22af\SfSwitchRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc645adc4b20c7f8e944\SfNumericTextBox.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc646957603ea1820544\MediaPickerActivity.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\MasterDetailContainer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\BorderViewRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\ExtendedScrollViewRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\FooterRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\GridCellBaseRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\GridCellRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\GridGroupSummaryCellRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\GridHeaderCellControlRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\GridIndentCellRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\GridStackedHeaderCellControlRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\GridSummaryCellRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\HeaderRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\LoadMoreViewRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\LocalizationLabelRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\MaterialDataGridRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\MaterialPagerRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\NumericButtonRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\PagerScrollViewRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\PullToRefreshViewRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\ScrollViewer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\SfDatePickerRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\SfEntryRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\SfImageViewRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\SfLabelRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\SfNumericTextBoxExtRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\SfPagerLabelRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\SfPickerRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\SfProgressBarRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\SwipeViewRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\VirtualizingCellControlRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\VisualContainerRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6476a6038b5d62edaf\Border.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6476a6038b5d62edaf\ContainerLayout.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6476a6038b5d62edaf\CustomHorizontalScrollView.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6476a6038b5d62edaf\SegmentView.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6476a6038b5d62edaf\SelectionStrip.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6476a6038b5d62edaf\SfCheckBox.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6476a6038b5d62edaf\SfCheckBox_SfSavedState.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6476a6038b5d62edaf\SfCheckBox_SfSavedState_SavedStateCreator.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6476a6038b5d62edaf\SfSegmentedControl.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6476a6038b5d62edaf\ViewLayout.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc647c4c06b10f3352ff\MaterialActivityIndicatorRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc647c4c06b10f3352ff\MaterialButtonRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc647c4c06b10f3352ff\MaterialCheckBoxRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc647c4c06b10f3352ff\MaterialContextThemeWrapper.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc647c4c06b10f3352ff\MaterialDatePickerRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc647c4c06b10f3352ff\MaterialEditorRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc647c4c06b10f3352ff\MaterialEntryRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc647c4c06b10f3352ff\MaterialFormsEditText.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc647c4c06b10f3352ff\MaterialFormsEditTextBase.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc647c4c06b10f3352ff\MaterialFormsTextInputLayout.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc647c4c06b10f3352ff\MaterialFormsTextInputLayoutBase.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc647c4c06b10f3352ff\MaterialFrameRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc647c4c06b10f3352ff\MaterialPickerEditText.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc647c4c06b10f3352ff\MaterialPickerRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc647c4c06b10f3352ff\MaterialPickerTextInputLayout.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc647c4c06b10f3352ff\MaterialProgressBarRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc647c4c06b10f3352ff\MaterialSliderRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc647c4c06b10f3352ff\MaterialStepperRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc647c4c06b10f3352ff\MaterialTimePickerRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6480997b3ef81bf9b2\ActivityLifecycleContextListener.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6480997b3ef81bf9b2\ZxingActivity.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6480997b3ef81bf9b2\ZxingOverlayView.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6480997b3ef81bf9b2\ZXingScannerFragment.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6480997b3ef81bf9b2\ZXingSurfaceView.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc648aad9efe354a1d8f\MapRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6492a4d8c11e365d0e\ImageEntryRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6494963511c3079d02\SfCheckBoxMaterialDesignRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6494963511c3079d02\SfCheckBoxRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6494963511c3079d02\SfRadioButtonMaterialDesignRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6494963511c3079d02\SfRadioButtonRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64951dfa51216f9180\ViewContainer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc649bfc1964ebae3690\SfNumericTextBoxRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64cea48322b3427ae9\ConnectivityChangeBroadcastReceiver.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64dcd40d47c3d274ae\MaterialSfComboBoxRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64dcd40d47c3d274ae\SfComboBoxRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64dcfb2fe544294a8b\SfSegmentedControlRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64dcfb2fe544294a8b\SfSwitchElementViewRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64dcfb2fe544294a8b\SfTouchEffectMaterialDesignRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64dcfb2fe544294a8b\TouchEffectRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64e7a7d80ad38eba03\JavaScriptResult.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64e7a7d80ad38eba03\LinearLayoutDetectsSoftKeyboard.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64e7a7d80ad38eba03\TEditorActivity.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64e7a7d80ad38eba03\TEditorChromeWebClient.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64e7a7d80ad38eba03\TEditorWebView.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64e7a7d80ad38eba03\TEditorWebViewClient.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64ee486da937c010f4\FrameRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64ee486da937c010f4\ImageRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64ee486da937c010f4\LabelRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64eeb36180fe6023e2\GestureListener.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64eeb36180fe6023e2\SfEffectsViewRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64f606ab658bf2774f\SfShimmerRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64f606ab658bf2774f\ShimmerViewRenderer.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64fdbeeba101bd56dc\RgGestureDetectorListener.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\android\app\ApplicationRegistration.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCameraChangeListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCameraIdleListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCameraMoveCanceledListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCameraMoveListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCameraMoveStartedListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCircleClickListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnGroundOverlayClickListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnIndoorStateChangeListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnInfoWindowClickListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnInfoWindowCloseListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnInfoWindowLongClickListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMapClickListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMapLongClickListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMarkerClickListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMarkerDragListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMyLocationButtonClickListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMyLocationChangeListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMyLocationClickListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnPoiClickListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnPolygonClickListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnPolylineClickListenerImplementor.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\MonoPackageManager_Resources.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\bin\packaged_resources
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\com\companyname\app_ktra_router\R.java
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\typemaps.armeabi-v7a.o
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\typemaps.arm64-v8a.o
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\environment.armeabi-v7a.o
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\environment.arm64-v8a.o
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\app_shared_libraries\arm64-v8a\libxamarin-app.so
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\bin\classes.dex
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\stamp\_CleanIntermediateIfNeeded.stamp
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\stamp\_CompileToDalvik.stamp
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\stamp\_ConvertCustomView.stamp
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\stamp\_ConvertLibraryResourcesCases.stamp
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\stamp\_ConvertResourcesCases.stamp
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\stamp\_GenerateJavaStubs.stamp
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\stamp\_GeneratePackageManagerJava.stamp
+E:\TUAN_SOURCE\GIT_HUB\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\stamp\_ResolveLibraryProjectImports.stamp
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\bin\Release\APP_KTRA_ROUTER.Android.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\bin\Release\APP_KTRA_ROUTER.Android.pdb
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\bin\Release\com.companyname.app_ktra_router.apk
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\bin\Release\com.companyname.app_ktra_router.aab
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\bin\Release\com.companyname.app_ktra_router-Signed.aab
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\bin\Release\com.companyname.app_ktra_router-Signed.apk
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\bin\Release\APP_KTRA_ROUTER.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\bin\Release\APP_KTRA_ROUTER.pdb
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\build.props
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\adb.props
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\APP_KTRA_ROUTER.Android.csprojAssemblyReference.cache
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\_VerifyXamarinAndroidSupportVersions.stamp
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\stamp\_BuildLibraryImportsCache.stamp
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res.flag
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\FF30BCD282FA4E45.stamp
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\67A9DF65FEFA00D5.stamp
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\23EDB0ACEBFA1DED.stamp
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\B48151C17FDCFFAE.stamp
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\F0C53E086ADCE296.stamp
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\E1933EE65A6FD2D1.stamp
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\691BE074716FE8A1.stamp
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\1D9FA8DB5E082810.stamp
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\59DBC7124B083528.stamp
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\027B9724E12EF023.stamp
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\ED3E9CC0D22A3BD7.stamp
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\E2CB1E1A3A0C9704.stamp
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\5D3D9D5C84C67AC3.stamp
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\C5A4FEEBF8C63453.stamp
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\81E09122EDC6296B.stamp
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\4D2C2079D3C60E23.stamp
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\7141A53961E43AAC.stamp
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\F9C97BAB4AE400DC.stamp
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\BD8D14625FE41DE4.stamp
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\251477D523E45374.stamp
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\E9D8C68E1DE4743C.stamp
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\AD9CA94708E46904.stamp
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\7EB427E389C2967F.stamp
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\9D5C8E213283B48D.stamp
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\FF30BCD282FA4E45.flata
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\67A9DF65FEFA00D5.flata
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\23EDB0ACEBFA1DED.flata
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\B48151C17FDCFFAE.flata
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\F0C53E086ADCE296.flata
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\E1933EE65A6FD2D1.flata
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\691BE074716FE8A1.flata
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\1D9FA8DB5E082810.flata
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\59DBC7124B083528.flata
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\027B9724E12EF023.flata
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\ED3E9CC0D22A3BD7.flata
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\E2CB1E1A3A0C9704.flata
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\5D3D9D5C84C67AC3.flata
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\C5A4FEEBF8C63453.flata
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\81E09122EDC6296B.flata
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\4D2C2079D3C60E23.flata
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\7141A53961E43AAC.flata
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\F9C97BAB4AE400DC.flata
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\BD8D14625FE41DE4.flata
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\251477D523E45374.flata
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\E9D8C68E1DE4743C.flata
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\AD9CA94708E46904.flata
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\7EB427E389C2967F.flata
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\9D5C8E213283B48D.flata
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\flata\compiled.flata
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\R.txt
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\R.cs.flag
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\APP_KTRA_ROUTER.Android.csproj.CoreCompileInputs.cache
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\XamlC.stamp
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\APP_KTRA_ROUTER.Android.csproj.CopyComplete
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\APP_KTRA_ROUTER.Android.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\APP_KTRA_ROUTER.Android.pdb
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\bin\com.companyname.app_ktra_router.apk
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\bin\base.zip
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\bin\com.companyname.app_ktra_router.aab
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\bin\com.companyname.app_ktra_router.apks
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\layout\tabbar.xml
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\layout\toolbar.xml
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\values\styles.xml
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\values\colors.xml
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\mipmap-anydpi-v26\icon.xml
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\mipmap-anydpi-v26\icon_round.xml
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\mipmap-hdpi\icon.png
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\mipmap-hdpi\launcher_foreground.png
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\mipmap-mdpi\icon.png
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\mipmap-mdpi\launcher_foreground.png
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\mipmap-xhdpi\icon.png
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\mipmap-xhdpi\launcher_foreground.png
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\mipmap-xxhdpi\icon.png
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\mipmap-xxhdpi\launcher_foreground.png
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\mipmap-xxxhdpi\icon.png
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\mipmap-xxxhdpi\launcher_foreground.png
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\drawable\xamarin_logo.png
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\drawable\tab_about.png
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\drawable\tab_feed.png
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\drawable\logo.png
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\drawable\password.png
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\drawable\user.png
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\drawable\setting.png
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\drawable\close.png
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\mipmap-xhdpi\logo.png
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\mipmap-xxhdpi\logo.png
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\mipmap-xxxhdpi\logo.png
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\drawable\flashscreen.xml
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\drawable\plash.png
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\drawable\check.png
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\drawable\ic_check.png
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\drawable\online.png
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\drawable\offline.png
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\drawable\history.png
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\drawable\khampha.png
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\res\drawable\search.png
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\uploadflags.txt
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\resolvedassemblies.hash
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\link.flag
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\AndHUD.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\APP_KTRA_ROUTER.Android.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\APP_KTRA_ROUTER.Android.pdb
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\APP_KTRA_ROUTER.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\APP_KTRA_ROUTER.pdb
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\FastAndroidCamera.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\FormsViewGroup.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\FormsViewGroup.pdb
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Java.Interop.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Microsoft.CSharp.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Microsoft.CSharp.pdb
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Mono.Android.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Mono.Android.pdb
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Mono.Security.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Mono.Security.pdb
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\MQTTnet.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\mscorlib.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\mscorlib.pdb
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Newtonsoft.Json.Bson.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Newtonsoft.Json.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Plugin.Connectivity.Abstractions.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Plugin.Connectivity.Abstractions.pdb
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Plugin.Connectivity.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Plugin.Connectivity.dll.mdb
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Plugin.Connectivity.pdb
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Plugin.Media.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Plugin.Media.pdb
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Rg.Plugins.Popup.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Rg.Plugins.Popup.pdb
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Syncfusion.Buttons.XForms.Android.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Syncfusion.Buttons.XForms.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Syncfusion.Core.XForms.Android.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Syncfusion.Core.XForms.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Syncfusion.Data.Portable.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Syncfusion.GridCommon.Portable.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Syncfusion.Licensing.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Syncfusion.SfComboBox.XForms.Android.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Syncfusion.SfComboBox.XForms.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Syncfusion.SfDataGrid.XForms.Android.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Syncfusion.SfDataGrid.XForms.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Syncfusion.SfNumericTextBox.Android.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Syncfusion.SfNumericTextBox.XForms.Android.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Syncfusion.SfNumericTextBox.XForms.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.Core.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.Core.pdb
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.Data.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.Data.pdb
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.Drawing.Common.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.Drawing.Common.pdb
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.Net.Http.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.Net.Http.Formatting.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.Net.Http.pdb
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.Numerics.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.Numerics.pdb
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.pdb
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.Runtime.Serialization.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.Runtime.Serialization.pdb
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.ServiceModel.Internals.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.ServiceModel.Internals.pdb
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.Xml.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.Xml.Linq.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.Xml.Linq.pdb
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\System.Xml.pdb
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\TEditor.Abstractions.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\TEditor.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\TEditor.pdb
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Annotations.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Collections.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Compat.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.CustomView.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Design.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Fragment.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Loader.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Print.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Transition.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Essentials.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Essentials.pdb
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Forms.Core.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Forms.Core.pdb
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Forms.Maps.Android.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Forms.Maps.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Forms.Material.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Forms.Material.pdb
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Forms.Platform.Android.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Forms.Platform.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Forms.Xaml.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.Forms.Xaml.pdb
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.GooglePlayServices.Base.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.GooglePlayServices.Basement.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.GooglePlayServices.Maps.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\Xamarin.GooglePlayServices.Tasks.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\ZXing.Net.Mobile.Core.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\ZXing.Net.Mobile.Forms.Android.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\ZXing.Net.Mobile.Forms.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\zxing.portable.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\ZXingNetMobile.dll
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\typemaps.armeabi-v7a.s
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\typemaps.arm64-v8a.s
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\typemaps.armeabi-v7a-managed.inc
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\typemaps.arm64-v8a-managed.inc
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\typemaps.armeabi-v7a-shared.inc
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\typemaps.shared.inc
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\AndroidManifest.xml
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\__environment__.txt
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\MonoRuntimeProvider.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\assets\machine.config
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\bin\mono.android.jar
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\static.flag
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\buildid.txt
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\environment.armeabi-v7a.s
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\environment.arm64-v8a.s
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\androidhud\ProgressWheel.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\androidhud\ProgressWheel_SpinHandler.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\android\support\compat\R.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\android\support\coordinatorlayout\R.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\android\support\customtabs\R.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\android\support\design\R.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\android\support\mediacompat\R.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\android\support\transition\R.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\android\support\v7\appcompat\R.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\android\support\v7\cardview\R.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\android\support\v7\recyclerview\R.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\com\google\android\gms\base\R.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\com\google\android\gms\common\R.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\com\google\android\gms\maps\R.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc640879981a986d658b\SfGradientViewRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc640cbed5f9e34be698\AlphaPatternDrawable.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc640cbed5f9e34be698\ColorPickerDialog.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc640cbed5f9e34be698\ColorPickerPanelView.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc640cbed5f9e34be698\ColorPickerView.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc640cbed5f9e34be698\RoundColorPickerDialog.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc640cbed5f9e34be698\RoundColorPickerView.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc641ad53e8602239f1d\MainActivity.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc641ad53e8602239f1d\SplashActivity.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6427ea3917517e908b\ZXingBarcodeImageViewRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6427ea3917517e908b\ZXingScannerViewRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc642fed3152aaceafc3\CloseButtonView.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc642fed3152aaceafc3\ItemAdapter.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc642fed3152aaceafc3\MultiSelectLayout.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc642fed3152aaceafc3\SfComboBox.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc642fed3152aaceafc3\TokenViewGroup.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc642fed3152aaceafc3\ViewHolder.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643dd37f507f3d9710\PopupPageRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643ddf594df781e5ec\SfBorderRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643eead1a2954d3917\CameraEventsListener.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ContainerView.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EllipseRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EllipseView.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable_GradientShaderFactory.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\LineRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\LineView.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\MediaElementRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PageContainer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PathRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PathView.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PolygonRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PolygonView.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PolylineRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PolylineView.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\RectangleRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\RectView.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShapeView.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc644103bb497e895a1b\InputLayoutBorder.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc644103bb497e895a1b\InputLayoutBorderRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc644103bb497e895a1b\InputLayoutClearButtonViewRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc644103bb497e895a1b\InputLayoutClearButtonViewRenderer_GestureListener.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc644103bb497e895a1b\InputLayoutToggleViewRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc644103bb497e895a1b\InputLayoutToggleViewRenderer_GestureListener.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc644103bb497e895a1b\SfTextInputLayoutRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc645588d8d4506f22af\GridCaptionCellRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc645588d8d4506f22af\GridTableSummaryCellRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc645588d8d4506f22af\SfSwitchRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc645adc4b20c7f8e944\SfNumericTextBox.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc646957603ea1820544\MediaPickerActivity.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\MasterDetailContainer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\BorderViewRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\ExtendedScrollViewRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\FooterRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\GridCellBaseRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\GridCellRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\GridGroupSummaryCellRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\GridHeaderCellControlRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\GridIndentCellRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\GridStackedHeaderCellControlRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\GridSummaryCellRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\HeaderRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\LoadMoreViewRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\LocalizationLabelRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\MaterialDataGridRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\MaterialPagerRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\NumericButtonRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\PagerScrollViewRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\PullToRefreshViewRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\ScrollViewer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\SfDatePickerRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\SfEntryRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\SfImageViewRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\SfLabelRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\SfNumericTextBoxExtRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\SfPagerLabelRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\SfPickerRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\SfProgressBarRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\SwipeViewRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\VirtualizingCellControlRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64765b1cc0eb6a85ad\VisualContainerRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6476a6038b5d62edaf\Border.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6476a6038b5d62edaf\ContainerLayout.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6476a6038b5d62edaf\CustomHorizontalScrollView.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6476a6038b5d62edaf\SegmentView.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6476a6038b5d62edaf\SelectionStrip.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6476a6038b5d62edaf\SfCheckBox.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6476a6038b5d62edaf\SfCheckBox_SfSavedState.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6476a6038b5d62edaf\SfCheckBox_SfSavedState_SavedStateCreator.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6476a6038b5d62edaf\SfSegmentedControl.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6476a6038b5d62edaf\ViewLayout.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc647c4c06b10f3352ff\MaterialActivityIndicatorRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc647c4c06b10f3352ff\MaterialButtonRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc647c4c06b10f3352ff\MaterialCheckBoxRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc647c4c06b10f3352ff\MaterialContextThemeWrapper.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc647c4c06b10f3352ff\MaterialDatePickerRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc647c4c06b10f3352ff\MaterialEditorRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc647c4c06b10f3352ff\MaterialEntryRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc647c4c06b10f3352ff\MaterialFormsEditText.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc647c4c06b10f3352ff\MaterialFormsEditTextBase.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc647c4c06b10f3352ff\MaterialFormsTextInputLayout.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc647c4c06b10f3352ff\MaterialFormsTextInputLayoutBase.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc647c4c06b10f3352ff\MaterialFrameRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc647c4c06b10f3352ff\MaterialPickerEditText.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc647c4c06b10f3352ff\MaterialPickerRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc647c4c06b10f3352ff\MaterialPickerTextInputLayout.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc647c4c06b10f3352ff\MaterialProgressBarRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc647c4c06b10f3352ff\MaterialSliderRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc647c4c06b10f3352ff\MaterialStepperRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc647c4c06b10f3352ff\MaterialTimePickerRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6480997b3ef81bf9b2\ActivityLifecycleContextListener.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6480997b3ef81bf9b2\ZxingActivity.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6480997b3ef81bf9b2\ZxingOverlayView.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6480997b3ef81bf9b2\ZXingScannerFragment.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6480997b3ef81bf9b2\ZXingSurfaceView.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc648aad9efe354a1d8f\MapRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6492a4d8c11e365d0e\ImageEntryRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6494963511c3079d02\SfCheckBoxMaterialDesignRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6494963511c3079d02\SfCheckBoxRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6494963511c3079d02\SfRadioButtonMaterialDesignRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc6494963511c3079d02\SfRadioButtonRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64951dfa51216f9180\ViewContainer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc649bfc1964ebae3690\SfNumericTextBoxRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64cea48322b3427ae9\ConnectivityChangeBroadcastReceiver.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64dcd40d47c3d274ae\MaterialSfComboBoxRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64dcd40d47c3d274ae\SfComboBoxRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64dcfb2fe544294a8b\SfSegmentedControlRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64dcfb2fe544294a8b\SfSwitchElementViewRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64dcfb2fe544294a8b\SfTouchEffectMaterialDesignRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64dcfb2fe544294a8b\TouchEffectRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64e7a7d80ad38eba03\JavaScriptResult.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64e7a7d80ad38eba03\LinearLayoutDetectsSoftKeyboard.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64e7a7d80ad38eba03\TEditorActivity.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64e7a7d80ad38eba03\TEditorChromeWebClient.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64e7a7d80ad38eba03\TEditorWebView.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64e7a7d80ad38eba03\TEditorWebViewClient.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64ee486da937c010f4\FrameRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64ee486da937c010f4\ImageRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64ee486da937c010f4\LabelRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64eeb36180fe6023e2\GestureListener.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64eeb36180fe6023e2\SfEffectsViewRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64f606ab658bf2774f\SfShimmerRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64f606ab658bf2774f\ShimmerViewRenderer.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\crc64fdbeeba101bd56dc\RgGestureDetectorListener.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\android\app\ApplicationRegistration.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCameraChangeListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCameraIdleListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCameraMoveCanceledListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCameraMoveListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCameraMoveStartedListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCircleClickListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnGroundOverlayClickListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnIndoorStateChangeListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnInfoWindowClickListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnInfoWindowCloseListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnInfoWindowLongClickListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMapClickListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMapLongClickListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMarkerClickListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMarkerDragListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMyLocationButtonClickListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMyLocationChangeListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMyLocationClickListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnPoiClickListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnPolygonClickListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnPolylineClickListenerImplementor.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\mono\MonoPackageManager_Resources.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\bin\packaged_resources
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\src\com\companyname\app_ktra_router\R.java
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\typemaps.armeabi-v7a.o
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\typemaps.arm64-v8a.o
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\environment.armeabi-v7a.o
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\environment.arm64-v8a.o
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\app_shared_libraries\arm64-v8a\libxamarin-app.so
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\android\bin\classes.dex
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\stamp\_CleanIntermediateIfNeeded.stamp
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\stamp\_CompileToDalvik.stamp
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\stamp\_ConvertCustomView.stamp
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\stamp\_ConvertLibraryResourcesCases.stamp
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\stamp\_ConvertResourcesCases.stamp
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\stamp\_GenerateJavaStubs.stamp
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\stamp\_GeneratePackageManagerJava.stamp
+D:\SOURCE CODE\APP_DCU_ROUTER\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Release\90\stamp\_ResolveLibraryProjectImports.stamp

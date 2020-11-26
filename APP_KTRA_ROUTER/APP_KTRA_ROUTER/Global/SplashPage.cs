@@ -28,8 +28,8 @@ namespace APP_KTRA_ROUTER.Global
                 image = new Image
                 {
                     Source = "logo.png",
-                    WidthRequest = 500,
-                    HeightRequest = 500
+                    WidthRequest = 400,
+                    HeightRequest = 400
 
                 };
                 AbsoluteLayout.SetLayoutFlags(image, AbsoluteLayoutFlags.PositionProportional);
@@ -54,9 +54,9 @@ namespace APP_KTRA_ROUTER.Global
             {
                 
 
-                await image.ScaleTo(1, 2000);//thời gian khởi tạo
-                await image.ScaleTo(0.9, 700, Easing.Linear);
-                await image.ScaleTo(150, 300, Easing.Linear);
+                //await image.ScaleTo(1, 2000);//thời gian khởi tạo
+                //await image.ScaleTo(0.9, 700, Easing.Linear);
+                //await image.ScaleTo(150, 300, Easing.Linear);
 
             }
             //kiêm tra xem user có thay đổi k

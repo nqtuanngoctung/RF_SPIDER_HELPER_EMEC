@@ -593,7 +593,7 @@
 
 	/* 65: System.Drawing.Common.dll */
 	/* uncompressed_file_size */
-	.word	29696
+	.word	30208
 	/* loaded */
 	.byte	0
 	/* data */
@@ -710,7 +710,7 @@
 
 	/* 78: System.dll */
 	/* uncompressed_file_size */
-	.word	963584
+	.word	964096
 	/* loaded */
 	.byte	0
 	/* data */

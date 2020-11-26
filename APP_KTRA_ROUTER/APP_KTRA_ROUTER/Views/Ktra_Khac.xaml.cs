@@ -120,9 +120,9 @@ namespace APP_KTRA_ROUTER.Views
 
                // lblThongBao.Text = "Đã gửi yêu cầu. đang chờ phản hồi";
                 lstResult.Clear();
-                string path = cbPath.Text.Split(':')[0];
-                if (path != "") path = path + ";" + idCongTo.Text.Trim();
-                DcuMqttReq dcuMqtt = new DcuMqttReq { DcuID = Convert.ToUInt32(viewModel.SelectItemTram.ID_DCU), MaDviQly = viewModel.SelectItemDonVi.MA_DON_VI, MaTram = viewModel.SelectItemTram.MA_TRAM, TenDangNhap = Preferences.Get(Config.User, ""), MeterID = idCongTo.Text.Trim(), Path = path , Type = cbchungloai.Text, TypeReq= "Disco" };
+                //string path = cbPath.Text.Split(':')[0];
+                //if (path != "") path = path + ";" + idCongTo.Text.Trim();
+                DcuMqttReq dcuMqtt = new DcuMqttReq { DcuID = Convert.ToUInt32(viewModel.SelectItemTram.ID_DCU), MaDviQly = viewModel.SelectItemDonVi.MA_DON_VI, MaTram = viewModel.SelectItemTram.MA_TRAM, TenDangNhap = Preferences.Get(Config.User, ""), MeterID = idCongTo.Text.Trim(), Path = cbPath.Text, Type = cbchungloai.Text, TypeReq= "Disco" };
                 MqttClientRepository.PublibMessage("EMEC/RFSPIDER/APP", JsonConvert.SerializeObject(dcuMqtt));
                 DependencyService.Get<IMessage>().ShortAlert("Đã gửi yêu cầu. đang chờ phản hồi");
             }

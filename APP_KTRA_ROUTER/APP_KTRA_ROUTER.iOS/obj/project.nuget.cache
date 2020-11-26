@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lCN/riGtlQpE83tlij3v4z16jj7enjbOsW9+CO0IrIL2+P2cL7349mBstxwkXf+pRy0On3mj69T1dfyXNoPJqQ==",
+  "dgSpecHash": "Z8Ar3obq+DRTk23fJKmtnUaASuTtUuZyCySAtOJwcy2h6jEbMiFo2PCPo96GkW323il2vRvZ0vpST23opvZCHw==",
   "success": true,
-  "projectFilePath": "E:\\TUAN_SOURCE\\BUILD APP CENTER\\RFSPIDER_HELPER\\APP_KTRA_ROUTER\\APP_KTRA_ROUTER.iOS\\APP_KTRA_ROUTER.iOS.csproj",
+  "projectFilePath": "E:\\TUAN_SOURCE\\BUILD APP CENTER\\RF_SPIDER_HELPER_EMEC\\APP_KTRA_ROUTER\\APP_KTRA_ROUTER.iOS\\APP_KTRA_ROUTER.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\btprogresshud\\1.3.2\\btprogresshud.1.3.2.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\com.airbnb.ios.lottie\\2.5.12\\com.airbnb.ios.lottie.2.5.12.nupkg.sha512",

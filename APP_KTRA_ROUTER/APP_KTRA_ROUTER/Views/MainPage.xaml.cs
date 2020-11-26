@@ -43,7 +43,7 @@ namespace APP_KTRA_ROUTER.Views
                         if (item.MaTram != viewModel.SelectItemTram.MA_TRAM) return;
                         if (item.TypeReq.ToLower() == "sys")
                         {
-                            DependencyService.Get<IMessage>().LongAlert(item.ErrorCode );
+                            DependencyService.Get<IMessage>().ShortAlert(item.ErrorCode );
                         }
                     }
                     catch

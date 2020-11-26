@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MbCd+cEivVyohYg9QqHvEOx2oiL9ni6wUikg1bh4dr3fNhJ70Pq68LZWiMYAHhjVvYBEk+emnVUhklUW11p/+w==",
+  "dgSpecHash": "sSUxj1Gx0wds1WTv4hitIk/3dWPL16gG+rXd4WZ806o5OCtVGNE7w+DP87NVv4HW5dBfdKXeVPRcAg2XbJFIoA==",
   "success": true,
-  "projectFilePath": "E:\\TUAN_SOURCE\\BUILD APP CENTER\\RFSPIDER_HELPER\\APP_KTRA_ROUTER\\APP_KTRA_ROUTER.Android\\APP_KTRA_ROUTER.Android.csproj",
+  "projectFilePath": "E:\\TUAN_SOURCE\\BUILD APP CENTER\\RF_SPIDER_HELPER_EMEC\\APP_KTRA_ROUTER\\APP_KTRA_ROUTER.Android\\APP_KTRA_ROUTER.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\andhud\\1.4.2\\andhud.1.4.2.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\com.airbnb.android.lottie\\3.0.6\\com.airbnb.android.lottie.3.0.6.nupkg.sha512",

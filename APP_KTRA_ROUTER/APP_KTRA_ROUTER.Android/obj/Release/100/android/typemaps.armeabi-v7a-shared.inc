@@ -229,55 +229,55 @@
 	.section	.rodata.map_aname.38,"aMS",%progbits,1
 	.type	.L.map_aname.38, %object
 .L.map_aname.38:
-	.asciz	"APP_KTRA_ROUTER.Android"
-	.size	.L.map_aname.38, 24
+	.asciz	"Xamarin.AndroidX.AppCompat"
+	.size	.L.map_aname.38, 27
 
 	.section	.rodata.map_aname.39,"aMS",%progbits,1
 	.type	.L.map_aname.39, %object
 .L.map_aname.39:
-	.asciz	"Xamarin.AndroidX.AppCompat"
-	.size	.L.map_aname.39, 27
+	.asciz	"Lottie.Android"
+	.size	.L.map_aname.39, 15
 
 	.section	.rodata.map_aname.40,"aMS",%progbits,1
 	.type	.L.map_aname.40, %object
 .L.map_aname.40:
-	.asciz	"Lottie.Android"
-	.size	.L.map_aname.40, 15
+	.asciz	"FastAndroidCamera"
+	.size	.L.map_aname.40, 18
 
 	.section	.rodata.map_aname.41,"aMS",%progbits,1
 	.type	.L.map_aname.41, %object
 .L.map_aname.41:
-	.asciz	"FastAndroidCamera"
-	.size	.L.map_aname.41, 18
+	.asciz	"FormsViewGroup"
+	.size	.L.map_aname.41, 15
 
 	.section	.rodata.map_aname.42,"aMS",%progbits,1
 	.type	.L.map_aname.42, %object
 .L.map_aname.42:
-	.asciz	"FormsViewGroup"
-	.size	.L.map_aname.42, 15
+	.asciz	"Xamarin.GooglePlayServices.Basement"
+	.size	.L.map_aname.42, 36
 
 	.section	.rodata.map_aname.43,"aMS",%progbits,1
 	.type	.L.map_aname.43, %object
 .L.map_aname.43:
-	.asciz	"Xamarin.GooglePlayServices.Basement"
-	.size	.L.map_aname.43, 36
+	.asciz	"Xamarin.AndroidX.Collection"
+	.size	.L.map_aname.43, 28
 
 	.section	.rodata.map_aname.44,"aMS",%progbits,1
 	.type	.L.map_aname.44, %object
 .L.map_aname.44:
-	.asciz	"Xamarin.AndroidX.Collection"
-	.size	.L.map_aname.44, 28
+	.asciz	"AndHUD"
+	.size	.L.map_aname.44, 7
 
 	.section	.rodata.map_aname.45,"aMS",%progbits,1
 	.type	.L.map_aname.45, %object
 .L.map_aname.45:
-	.asciz	"AndHUD"
-	.size	.L.map_aname.45, 7
+	.asciz	"Xamarin.AndroidX.Loader"
+	.size	.L.map_aname.45, 24
 
 	.section	.rodata.map_aname.46,"aMS",%progbits,1
 	.type	.L.map_aname.46, %object
 .L.map_aname.46:
-	.asciz	"Xamarin.AndroidX.Loader"
+	.asciz	"APP_KTRA_ROUTER.Android"
 	.size	.L.map_aname.46, 24
 
 	.section	.rodata.map_aname.47,"aMS",%progbits,1

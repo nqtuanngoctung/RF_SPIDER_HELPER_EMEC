@@ -730,7 +730,7 @@
 
 	/* 78: System.dll */
 	/* uncompressed_file_size */
-	.long	964096
+	.long	963584
 	/* loaded */
 	.byte	0
 	/* data */

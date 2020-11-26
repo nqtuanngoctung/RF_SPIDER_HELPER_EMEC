@@ -235,49 +235,49 @@
 	.section	.rodata.map_aname.39,"aMS",%progbits,1
 	.type	.L.map_aname.39, %object
 .L.map_aname.39:
-	.asciz	"Lottie.Android"
-	.size	.L.map_aname.39, 15
+	.asciz	"APP_KTRA_ROUTER.Android"
+	.size	.L.map_aname.39, 24
 
 	.section	.rodata.map_aname.40,"aMS",%progbits,1
 	.type	.L.map_aname.40, %object
 .L.map_aname.40:
-	.asciz	"FastAndroidCamera"
-	.size	.L.map_aname.40, 18
+	.asciz	"Lottie.Android"
+	.size	.L.map_aname.40, 15
 
 	.section	.rodata.map_aname.41,"aMS",%progbits,1
 	.type	.L.map_aname.41, %object
 .L.map_aname.41:
-	.asciz	"FormsViewGroup"
-	.size	.L.map_aname.41, 15
+	.asciz	"FastAndroidCamera"
+	.size	.L.map_aname.41, 18
 
 	.section	.rodata.map_aname.42,"aMS",%progbits,1
 	.type	.L.map_aname.42, %object
 .L.map_aname.42:
-	.asciz	"Xamarin.GooglePlayServices.Basement"
-	.size	.L.map_aname.42, 36
+	.asciz	"FormsViewGroup"
+	.size	.L.map_aname.42, 15
 
 	.section	.rodata.map_aname.43,"aMS",%progbits,1
 	.type	.L.map_aname.43, %object
 .L.map_aname.43:
-	.asciz	"Xamarin.AndroidX.Collection"
-	.size	.L.map_aname.43, 28
+	.asciz	"Xamarin.GooglePlayServices.Basement"
+	.size	.L.map_aname.43, 36
 
 	.section	.rodata.map_aname.44,"aMS",%progbits,1
 	.type	.L.map_aname.44, %object
 .L.map_aname.44:
-	.asciz	"AndHUD"
-	.size	.L.map_aname.44, 7
+	.asciz	"Xamarin.AndroidX.Collection"
+	.size	.L.map_aname.44, 28
 
 	.section	.rodata.map_aname.45,"aMS",%progbits,1
 	.type	.L.map_aname.45, %object
 .L.map_aname.45:
-	.asciz	"Xamarin.AndroidX.Loader"
-	.size	.L.map_aname.45, 24
+	.asciz	"AndHUD"
+	.size	.L.map_aname.45, 7
 
 	.section	.rodata.map_aname.46,"aMS",%progbits,1
 	.type	.L.map_aname.46, %object
 .L.map_aname.46:
-	.asciz	"APP_KTRA_ROUTER.Android"
+	.asciz	"Xamarin.AndroidX.Loader"
 	.size	.L.map_aname.46, 24
 
 	.section	.rodata.map_aname.47,"aMS",%progbits,1

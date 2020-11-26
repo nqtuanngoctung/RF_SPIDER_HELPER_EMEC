@@ -27,7 +27,7 @@
 	<key>CFBundleIdentifier</key>
 	<string>com.emec.rf-spider-helper</string>
 	<key>CFBundleVersion</key>
-	<string>7.8</string>
+	<string>7.9</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>CFBundleName</key>
@@ -50,6 +50,6 @@
 		<string>com.emec.APP_KTRA_ROUTER</string>
 	</array>
 	<key>CFBundleShortVersionString</key>
-	<string>15</string>
+	<string>16</string>
 </dict>
 </plist>

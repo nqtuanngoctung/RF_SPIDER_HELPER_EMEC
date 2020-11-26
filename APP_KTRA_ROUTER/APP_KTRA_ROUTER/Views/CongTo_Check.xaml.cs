@@ -67,44 +67,69 @@ namespace APP_KTRA_ROUTER.Views
 
         private  async void Send_Clicked(object sender, EventArgs e)
         {
-            //kiểm tra quyền xem có đc can thiệp hes đọc công tơ không
-            string str = Config.URL + "api/home/getQuyenDoc?username=" + Xamarin.Essentials.Preferences.Get(Config.User, "");
-            var _json = Config.client.GetStringAsync(str).Result;
-            _json = _json.Replace("\\r\\n", "").Replace("\\", "");
-            if (_json.Contains("Không Tìm Thấy Dữ Liệu") == false && _json.Contains("[]") == false)
+            try
             {
+                //kiểm tra quyền xem có đc can thiệp hes đọc công tơ không
+                string str = Config.URL + "api/home/getQuyenDoc?username=" + Xamarin.Essentials.Preferences.Get(Config.User, "");
+                var _json = Config.client.GetStringAsync(str).Result;
+                _json = _json.Replace("\\r\\n", "").Replace("\\", "");
+                if (_json.Contains("Không Tìm Thấy Dữ Liệu") == false && _json.Contains("[]") == false)
+                {
+                }
+                else
+                {
+                    await new MessageBox("Thông Báo", "Bạn không có quyền thao tác chức năng này. vui lòng liên hệ IT CPC_EMEC để cấp quyền").Show();
+                    return;
+                }
+                Title = "Checking: " + DCU_.MeterID;
+
+                string typereq = "Reg";
+                switch (cbChungLoai.SelectedIndex)
+                {
+                    case 0:
+                        typereq = "Reg";
+                        break;
+                    case 1:
+                        typereq = "Ins";
+                        break;
+                }
+                if (cbPath.Text == null)
+                {
+
+                    DcuMqttReq dcuMqtt = new DcuMqttReq { DcuID = Convert.ToUInt32(DCU_.DcuID), MaDviQly = _madonvi, MaTram = _matram, TenDangNhap = Preferences.Get(Config.User, ""), MeterID = DCU_.MeterID, Path = "", Type = DCU_.Type, TypeReq = typereq };
+                    MqttClientRepository.PublibMessage("EMEC/RFSPIDER/APP", JsonConvert.SerializeObject(dcuMqtt));
+                    lblResult.Text = "Đã gửi bản tin yêu cầu. đang chờ phản hồi" + Environment.NewLine;
+                }
+                else if (cbPath.Text == "")
+                {
+                    try
+                    {
+                        DcuMqttReq dcuMqtt = new DcuMqttReq { DcuID = Convert.ToUInt32(DCU_.DcuID), MaDviQly = _madonvi, MaTram = _matram, TenDangNhap = Preferences.Get(Config.User, ""), MeterID = DCU_.MeterID, Path = cbPath.SelectedValue.ToString(), Type = DCU_.Type, TypeReq = typereq };
+                        MqttClientRepository.PublibMessage("EMEC/RFSPIDER/APP", JsonConvert.SerializeObject(dcuMqtt));
+                        lblResult.Text = "Đã gửi bản tin yêu cầu. đang chờ phản hồi" + Environment.NewLine;
+                    }
+                    catch (Exception)
+                    {
+
+                        DcuMqttReq dcuMqtt = new DcuMqttReq { DcuID = Convert.ToUInt32(DCU_.DcuID), MaDviQly = _madonvi, MaTram = _matram, TenDangNhap = Preferences.Get(Config.User, ""), MeterID = DCU_.MeterID, Path = "", Type = DCU_.Type, TypeReq = typereq };
+                        MqttClientRepository.PublibMessage("EMEC/RFSPIDER/APP", JsonConvert.SerializeObject(dcuMqtt));
+                        lblResult.Text = "Đã gửi bản tin yêu cầu. đang chờ phản hồi" + Environment.NewLine;
+                    }
+
+                }
+                else
+
+                {
+                    DcuMqttReq dcuMqtt = new DcuMqttReq { DcuID = Convert.ToUInt32(DCU_.DcuID), MaDviQly = _madonvi, MaTram = _matram, TenDangNhap = Preferences.Get(Config.User, ""), MeterID = DCU_.MeterID, Path = cbPath.Text, Type = DCU_.Type, TypeReq = typereq };
+                    MqttClientRepository.PublibMessage("EMEC/RFSPIDER/APP", JsonConvert.SerializeObject(dcuMqtt));
+                    lblResult.Text = "Đã gửi bản tin yêu cầu. đang chờ phản hồi" + Environment.NewLine;
+                }
             }
-            else
+            catch (Exception)
             {
-                await new MessageBox("Thông Báo", "Bạn không có quyền thao tác chức năng này. vui lòng liên hệ IT CPC_EMEC để cấp quyền").Show();
-                return;
+
+
             }
-            Title = "Checking: " + DCU_.MeterID;
-            
-            string typereq = "Reg";
-            switch (cbChungLoai.SelectedIndex)
-            {
-                case 0:
-                    typereq = "Reg";
-                    break;
-                case 1:
-                    typereq = "Ins";
-                    break;               
-            }
-            if (cbPath.Text == null)
-            {              
-               
-                DcuMqttReq dcuMqtt = new DcuMqttReq { DcuID = Convert.ToUInt32(DCU_.DcuID), MaDviQly = _madonvi, MaTram = _matram, TenDangNhap = Preferences.Get(Config.User, ""), MeterID = DCU_.MeterID, Path = "", Type = DCU_.Type , TypeReq=typereq };
-                MqttClientRepository.PublibMessage("EMEC/RFSPIDER/APP", JsonConvert.SerializeObject(dcuMqtt));
-                lblResult.Text = "Đã gửi bản tin yêu cầu. đang chờ phản hồi" + Environment.NewLine;
-            }    
-            else
-            {
-                DcuMqttReq dcuMqtt = new DcuMqttReq { DcuID = Convert.ToUInt32(DCU_.DcuID), MaDviQly = _madonvi, MaTram = _matram, TenDangNhap = Preferences.Get(Config.User, ""), MeterID = DCU_.MeterID, Path = cbPath.Text, Type = DCU_.Type, TypeReq = typereq };
-                MqttClientRepository.PublibMessage("EMEC/RFSPIDER/APP", JsonConvert.SerializeObject(dcuMqtt));
-                lblResult.Text = "Đã gửi bản tin yêu cầu. đang chờ phản hồi" + Environment.NewLine;
-            }    
-            
         }
 
         protected override void OnAppearing()

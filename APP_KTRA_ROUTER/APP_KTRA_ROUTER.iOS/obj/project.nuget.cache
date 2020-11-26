@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z8Ar3obq+DRTk23fJKmtnUaASuTtUuZyCySAtOJwcy2h6jEbMiFo2PCPo96GkW323il2vRvZ0vpST23opvZCHw==",
+  "dgSpecHash": "d2mvLAkpcdutcKDQpUzWLeKmkv4p7uT5MQv15ldXT9BH4JjkTPN0kPKSS5R+x+NAIm48YDasIkkVeoz+fL4ztw==",
   "success": true,
-  "projectFilePath": "E:\\TUAN_SOURCE\\BUILD APP CENTER\\RF_SPIDER_HELPER_EMEC\\APP_KTRA_ROUTER\\APP_KTRA_ROUTER.iOS\\APP_KTRA_ROUTER.iOS.csproj",
+  "projectFilePath": "D:\\SOURCE CODE\\GIT_HUB_EMEC\\RF_SPIDER_HELPER_EMEC\\APP_KTRA_ROUTER\\APP_KTRA_ROUTER.iOS\\APP_KTRA_ROUTER.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\btprogresshud\\1.3.2\\btprogresshud.1.3.2.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\com.airbnb.ios.lottie\\2.5.12\\com.airbnb.ios.lottie.2.5.12.nupkg.sha512",
@@ -69,7 +69,7 @@
     "C:\\Users\\PC\\.nuget\\packages\\teditor\\1.0.3\\teditor.1.0.3.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\xam.plugin.connectivity\\3.2.0\\xam.plugin.connectivity.3.2.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
-    "C:\\Users\\PC\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\xamarin.forms\\4.8.0.1269\\xamarin.forms.4.8.0.1269.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\xamarin.forms.maps\\4.8.0.1269\\xamarin.forms.maps.4.8.0.1269.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\xamarin.forms.visual.material\\4.8.0.1269\\xamarin.forms.visual.material.4.8.0.1269.nupkg.sha512",

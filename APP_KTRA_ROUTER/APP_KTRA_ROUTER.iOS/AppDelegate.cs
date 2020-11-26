@@ -26,10 +26,10 @@ namespace APP_KTRA_ROUTER.iOS
         //
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
+            ZXing.Net.Mobile.Forms.iOS.Platform.Init();
             global::Xamarin.Forms.Forms.SetFlags("CollectionView_Experimental");
             global::Xamarin.Forms.Forms.Init();
-            global::Xamarin.Forms.FormsMaterial.Init();
-            ZXing.Net.Mobile.Forms.iOS.Platform.Init();
+            global::Xamarin.Forms.FormsMaterial.Init();          
             Syncfusion.SfDataGrid.XForms.iOS.SfDataGridRenderer.Init();
             new Syncfusion.XForms.iOS.ComboBox.SfComboBoxRenderer();
             Syncfusion.XForms.iOS.Border.SfBorderRenderer.Init();

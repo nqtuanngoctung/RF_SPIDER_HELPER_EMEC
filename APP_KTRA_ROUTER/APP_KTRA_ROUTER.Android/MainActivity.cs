@@ -21,7 +21,7 @@ namespace APP_KTRA_ROUTER.Droid
         {
             TabLayoutResource = Resource.Layout.Tabbar;
             ToolbarResource = Resource.Layout.Toolbar;
-
+            ZXing.Net.Mobile.Forms.Android.Platform.Init();
             base.OnCreate(savedInstanceState);
             Rg.Plugins.Popup.Popup.Init(this, savedInstanceState);
             Xamarin.FormsMaps.Init(this, savedInstanceState);
@@ -35,7 +35,7 @@ namespace APP_KTRA_ROUTER.Droid
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)
         {
             Xamarin.Essentials.Platform.OnRequestPermissionsResult(requestCode, permissions, grantResults);
-
+            global::ZXing.Net.Mobile.Forms.Android.PermissionsHandler.OnRequestPermissionsResult(requestCode, permissions, grantResults);
             base.OnRequestPermissionsResult(requestCode, permissions, grantResults);
         }
         protected override void OnDestroy()

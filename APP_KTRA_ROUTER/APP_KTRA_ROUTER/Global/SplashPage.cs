@@ -28,8 +28,8 @@ namespace APP_KTRA_ROUTER.Global
                 image = new Image
                 {
                     Source = "logo.png",
-                    WidthRequest = 400,
-                    HeightRequest = 400
+                    WidthRequest = 300,
+                    HeightRequest = 300
 
                 };
                 AbsoluteLayout.SetLayoutFlags(image, AbsoluteLayoutFlags.PositionProportional);

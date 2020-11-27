@@ -23,11 +23,9 @@
 	<key>MinimumOSVersion</key>
 	<string>8.0</string>
 	<key>CFBundleDisplayName</key>
-	<string>APP_KTRA_ROUTER</string>
+	<string>RF SPIDER - HELPER</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.emec.rf-spider-helper</string>
-	<key>CFBundleVersion</key>
-	<string>7.9</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>CFBundleName</key>
@@ -50,6 +48,8 @@
 		<string>com.emec.APP_KTRA_ROUTER</string>
 	</array>
 	<key>CFBundleShortVersionString</key>
-	<string>16</string>
+	<string>17</string>
+	<key>CFBundleVersion</key>
+	<string>8</string>
 </dict>
 </plist>

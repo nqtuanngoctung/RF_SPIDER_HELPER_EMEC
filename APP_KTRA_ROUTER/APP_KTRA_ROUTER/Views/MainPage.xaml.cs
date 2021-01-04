@@ -136,44 +136,37 @@ namespace APP_KTRA_ROUTER.Views
 
         private async void btnChiDuong_Clicked_1(object sender, EventArgs e)
         {
+            try
+            {
+                DCU_ROUTER dCU = listviewDCU.SelectedItem as DCU_ROUTER;
+                if (dCU != null)
+                {
 
-            await Navigation.PushModalAsync(new Popup.Cbox_Tram(viewModel.SelectItemDonVi.MA_DON_VI ));
+                    var _json = Config.client.GetStringAsync(Config.URL + "api/home/GET_TOA_DO?matram=" + viewModel.SelectItemTram.MA_TRAM + "&SerialID=" + dCU.DcuID + "&ma_Cot=" + dCU.MA_COT).Result;
+                    _json = _json.Replace("\\r\\n", "").Replace("\\", "");
+                    if (_json.Contains("Không Tìm Thấy Dữ Liệu") == false && _json.Contains("[]") == false)
+                    {
+                        Int32 from = _json.IndexOf("[");
+                        Int32 to = _json.IndexOf("]");
+                        string result = _json.Substring(from, to - from + 1);
+                        ObservableCollection<GoogleMap> toado = JsonConvert.DeserializeObject<ObservableCollection<GoogleMap>>(result);
 
-            //try
-            //{
-            //    DCU_ROUTER dCU = listviewDCU.SelectedItem as DCU_ROUTER;
-            //    if (dCU != null)
-            //    {
+                        if (toado != null)
+                        {
+                            await Xamarin.Essentials.Map.OpenAsync(toado[0].Lat, toado[0].Lng, new MapLaunchOptions { NavigationMode = Xamarin.Essentials.NavigationMode.Driving });
+                        }
+                    }
+                    else
+                    {
+                        await new MessageBox("Thông Báo", "Không tìm thấy tọa độ cho vị trí này").Show();
+                    }
+                }
 
-            //        var _json = Config.client.GetStringAsync(Config.URL + "api/home/GET_TOA_DO?matram=" + viewModel.SelectItemTram.MA_TRAM  + "&SerialID=" + dCU.DcuID + "&ma_Cot=" + dCU.MA_COT).Result;
-            //        _json = _json.Replace("\\r\\n", "").Replace("\\", "");
-            //        if (_json.Contains("Không Tìm Thấy Dữ Liệu") == false && _json.Contains("[]") == false)
-            //        {
-            //            Int32 from = _json.IndexOf("[");
-            //            Int32 to = _json.IndexOf("]");
-            //            string result = _json.Substring(from, to - from + 1);
-            //            ObservableCollection<GoogleMap> toado = JsonConvert.DeserializeObject<ObservableCollection<GoogleMap>>(result);
-
-            //            if (toado != null)
-            //            {
-            //                await Xamarin.Essentials.Map.OpenAsync(toado[0].Lat, toado[0].Lng, new MapLaunchOptions {  NavigationMode = Xamarin.Essentials.NavigationMode.Driving });
-            //            }
-            //        }
-            //        else
-            //        {
-            //            await new MessageBox("Thông Báo", "Không tìm thấy tọa độ cho vị trí này").Show();
-            //        }
-            //    }
-
-            //}
-            //catch (Exception ex)
-            //{
-
-            //    await new MessageBox("Lỗi", ex.Message).Show();
-            //}
-
-            
-
+            }
+            catch (Exception ex)
+            {
+                await new MessageBox("Lỗi", ex.Message).Show();
+            }
         }
 
         protected override void OnAppearing()
@@ -209,7 +202,7 @@ namespace APP_KTRA_ROUTER.Views
                 }    
                 DcuMqttReq dcuMqtt = new DcuMqttReq { DcuID = Convert.ToUInt32(viewModel.SelectItemTram.ID_DCU ), MaDviQly = viewModel.SelectItemDonVi.MA_DON_VI , MaTram = viewModel.SelectItemTram.MA_TRAM, TenDangNhap = Preferences.Get(Config.User, ""), MeterID = "", Path = "", Type = "", TypeReq = "Sys" };
                 MqttClientRepository.PublibMessage("EMEC/RFSPIDER/APP", JsonConvert.SerializeObject(dcuMqtt));
-                DependencyService.Get<IMessage>().ShortAlert("Đã gửi yêu cầu đồng bộ. vui lòng đợi...");
+               // DependencyService.Get<IMessage>().ShortAlert("Đã gửi yêu cầu đồng bộ. vui lòng đợi...");
             }
             catch (Exception)
             {

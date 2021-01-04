@@ -70,22 +70,22 @@ namespace APP_KTRA_ROUTER.ViewModels
                 if (_selectItemTram != value)
                 {
                     _selectItemTram = value;
-                    //LstDcuRouter.Clear();
-                    //IsRunning = true;
-                    //TRAM dv = _selectItemTram as TRAM;
-                    //try
-                    //{
-                    //    Device.BeginInvokeOnMainThread( () =>
-                    //    {                             
-                    //        ExecuteLoadDCUsCommand(dv);
-                    //    });
-                    //}
-                    //catch (Exception ex)
-                    //{
+                    LstDcuRouter.Clear();
+                    IsRunning = true;
+                    TRAM dv = _selectItemTram as TRAM;
+                    try
+                    {
+                        Device.BeginInvokeOnMainThread(() =>
+                       {
+                           ExecuteLoadDCUsCommand(dv);
+                       });
+                    }
+                    catch (Exception ex)
+                    {
 
 
-                    //}
-                   
+                    }
+
                     OnPropertyChanged("SelectItemTram");
                 }
 

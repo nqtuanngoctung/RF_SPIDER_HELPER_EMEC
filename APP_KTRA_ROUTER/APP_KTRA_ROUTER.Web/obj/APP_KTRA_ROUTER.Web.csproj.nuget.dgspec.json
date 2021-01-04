@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SOURCE CODE\\GIT_HUB_EMEC\\RF_SPIDER_HELPER_EMEC\\APP_KTRA_ROUTER\\APP_KTRA_ROUTER.Web\\APP_KTRA_ROUTER.Web.csproj": {}
+    "E:\\TUAN_SOURCE\\BUILD APP CENTER\\RF_SPIDER_HELPER_EMEC\\APP_KTRA_ROUTER\\APP_KTRA_ROUTER.Web\\APP_KTRA_ROUTER.Web.csproj": {}
   },
   "projects": {
-    "D:\\SOURCE CODE\\GIT_HUB_EMEC\\RF_SPIDER_HELPER_EMEC\\APP_KTRA_ROUTER\\APP_KTRA_ROUTER.Web\\APP_KTRA_ROUTER.Web.csproj": {
+    "E:\\TUAN_SOURCE\\BUILD APP CENTER\\RF_SPIDER_HELPER_EMEC\\APP_KTRA_ROUTER\\APP_KTRA_ROUTER.Web\\APP_KTRA_ROUTER.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SOURCE CODE\\GIT_HUB_EMEC\\RF_SPIDER_HELPER_EMEC\\APP_KTRA_ROUTER\\APP_KTRA_ROUTER.Web\\APP_KTRA_ROUTER.Web.csproj",
+        "projectUniqueName": "E:\\TUAN_SOURCE\\BUILD APP CENTER\\RF_SPIDER_HELPER_EMEC\\APP_KTRA_ROUTER\\APP_KTRA_ROUTER.Web\\APP_KTRA_ROUTER.Web.csproj",
         "projectName": "APP_KTRA_ROUTER.Web",
-        "projectPath": "D:\\SOURCE CODE\\GIT_HUB_EMEC\\RF_SPIDER_HELPER_EMEC\\APP_KTRA_ROUTER\\APP_KTRA_ROUTER.Web\\APP_KTRA_ROUTER.Web.csproj",
+        "projectPath": "E:\\TUAN_SOURCE\\BUILD APP CENTER\\RF_SPIDER_HELPER_EMEC\\APP_KTRA_ROUTER\\APP_KTRA_ROUTER.Web\\APP_KTRA_ROUTER.Web.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\SOURCE CODE\\GIT_HUB_EMEC\\RF_SPIDER_HELPER_EMEC\\APP_KTRA_ROUTER\\APP_KTRA_ROUTER.Web\\obj\\",
+        "outputPath": "E:\\TUAN_SOURCE\\BUILD APP CENTER\\RF_SPIDER_HELPER_EMEC\\APP_KTRA_ROUTER\\APP_KTRA_ROUTER.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

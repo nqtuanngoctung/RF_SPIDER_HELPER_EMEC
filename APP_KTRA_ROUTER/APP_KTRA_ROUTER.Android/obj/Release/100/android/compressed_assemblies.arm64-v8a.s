@@ -710,7 +710,7 @@
 
 	/* 78: System.dll */
 	/* uncompressed_file_size */
-	.word	963584
+	.word	964096
 	/* loaded */
 	.byte	0
 	/* data */

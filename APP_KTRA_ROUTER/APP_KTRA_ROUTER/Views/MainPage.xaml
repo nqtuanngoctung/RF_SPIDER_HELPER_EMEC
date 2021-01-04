@@ -32,23 +32,26 @@
             <Grid RowDefinitions="40,40,50">
                 <sfcombox:SfComboBox  x:Name="cbDienLuc" Watermark="Chọn Điện Lực"                           
                              Grid.Row="0"
-                             DataSource="{Binding DonVis , Mode=TwoWay}"                            
+                             DataSource="{Binding DonVis , Mode=TwoWay}"    
+                                        SelectedItem="{Binding SelectItemDonVi , Mode=TwoWay}"
                              HorizontalOptions="FillAndExpand"                              
                              NoResultsFoundText="Không tìm thấy điện lực này" 
                              DisplayMemberPath="TEN_DON_VI" 
                              Style="{StaticResource styleCombobox}"
-                             SelectedItem="{Binding SelectItemDonVi}" >
+                             >
                     
                 </sfcombox:SfComboBox>
                 <sfcombox:SfComboBox  x:Name="cbTram" Watermark="Chọn Trạm" WatermarkColor="Gray"  
                              Grid.Row="1"
-                             DataSource="{Binding Trams, Mode=TwoWay}"
-                             SelectedItem="{Binding SelectItemTram}"
+                             DataSource="{Binding Trams }"
+                           
                              IsEditableMode="True"
                              HorizontalOptions="FillAndExpand" 
                              NoResultsFoundText="Không tìm thấy trạm này" 
                              DisplayMemberPath="TEN_TRAM"                                  
-                             Style="{StaticResource styleCombobox}"
+                             
+                               SelectedItem="{Binding SelectItemTram , Mode=TwoWay}"         
+                                   
                              />
                 <sfinputtext:SfTextInputLayout Hint="Nhập số serial hoặc Tên KH để tìm" 
                                                Grid.Row="2"

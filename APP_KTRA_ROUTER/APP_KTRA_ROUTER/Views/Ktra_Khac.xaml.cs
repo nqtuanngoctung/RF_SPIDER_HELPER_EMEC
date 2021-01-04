@@ -215,6 +215,7 @@ namespace APP_KTRA_ROUTER.Views
 
         private async void check_Clicked_1(object sender, EventArgs e)
         {
+            //should use string.IsNullOrEmpty
             if (idCongTo.Text == "" || idCongTo.Text == null)
             {
                 await new MessageBox("Thông báo", "nhập số công tơ/router để kiểm tra").Show();

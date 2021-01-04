@@ -30,17 +30,17 @@
                              NoResultsFoundText="Không tìm thấy điện lực này" 
                              DisplayMemberPath="TEN_DON_VI" 
                              Style="{StaticResource styleCombobox}"
-                             SelectedItem="{Binding SelectItemDonVi , Mode=TwoWay}" >
+                             SelectedItem="{Binding SelectItemDonVi}" >
             </sfcombox:SfComboBox>
             <sfcombox:SfComboBox  x:Name="cbTram" Watermark="Chọn Trạm" WatermarkColor="Gray"  
                              Grid.Row="1"
                              DataSource="{Binding Trams, Mode=TwoWay}"
-                             SelectedItem="{Binding SelectItemTram}"
-                                  IsEditableMode="True"
+                             IsEditableMode="True"
                              HorizontalOptions="FillAndExpand" 
                              NoResultsFoundText="Không tìm thấy trạm này" 
                              DisplayMemberPath="TEN_TRAM"                                  
                              Style="{StaticResource styleCombobox}"
+                                  SelectedItem="{Binding SelectItemTram , Mode=OneWayToSource}"
                              />           
             <Grid ColumnDefinitions="8.5*,1.5*" Grid.Row="2">
                 <rfinput:SfTextInputLayout Hint="Nhập số công tơ hoặc router"     

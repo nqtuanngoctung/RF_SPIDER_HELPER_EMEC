@@ -24716,11 +24716,11 @@ namespace APP_KTRA_ROUTER.Droid
 			// aapt resource value: 0x7F08004A
 			public const int application_name = 2131230794;
 			
-			// aapt resource value: 0x7F080002
-			public const int APP_NAME = 2131230722;
-			
 			// aapt resource value: 0x7F080049
 			public const int app_name = 2131230793;
+			
+			// aapt resource value: 0x7F080002
+			public const int APP_NAME = 2131230722;
 			
 			// aapt resource value: 0x7F08004B
 			public const int async = 2131230795;

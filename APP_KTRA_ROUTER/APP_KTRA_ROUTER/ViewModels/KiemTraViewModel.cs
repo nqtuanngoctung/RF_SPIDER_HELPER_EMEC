@@ -14,6 +14,7 @@ using APP_KTRA_ROUTER.Interface;
 using APP_KTRA_ROUTER.Services;
 using APP_KTRA_ROUTER.Database;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace APP_KTRA_ROUTER.ViewModels
 {
@@ -204,6 +205,8 @@ namespace APP_KTRA_ROUTER.ViewModels
                             {
                                 if (cto.MA_DVIQLY == dv.MA_DON_VI )
                                 {
+
+                                    Debug.WriteLine($"find don vi {dv.MA_DON_VI}");
                                     SelectItemDonVi = dv;
                                     break;
                                 }    
@@ -213,6 +216,7 @@ namespace APP_KTRA_ROUTER.ViewModels
                                 if (cto.MA_TRAM == tr.MA_TRAM)
                                 {
                                     SelectItemTram = tr ;
+                                    Debug.WriteLine($"find tram {tr.MA_TRAM}");
                                     break;
                                 }
                             }
@@ -225,6 +229,9 @@ namespace APP_KTRA_ROUTER.ViewModels
                                 }
                             }
                             bool findPath = false;
+
+                            var slItemPath = LstPaths.FirstOrDefault(d => d.SPIDER_PATH == cto.SPIDER_PATH);
+                            //the same as below code
                             foreach (PATH pt in LstPaths)
                             {
                                 if (cto.SPIDER_PATH == pt.SPIDER_PATH)

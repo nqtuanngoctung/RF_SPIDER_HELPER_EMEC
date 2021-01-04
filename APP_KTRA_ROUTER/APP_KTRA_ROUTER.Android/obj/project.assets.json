@@ -6252,11 +6252,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SOURCE CODE\\GIT_HUB_EMEC\\RF_SPIDER_HELPER_EMEC\\APP_KTRA_ROUTER\\APP_KTRA_ROUTER.Android\\APP_KTRA_ROUTER.Android.csproj",
+      "projectUniqueName": "E:\\TUAN_SOURCE\\BUILD APP CENTER\\RF_SPIDER_HELPER_EMEC\\APP_KTRA_ROUTER\\APP_KTRA_ROUTER.Android\\APP_KTRA_ROUTER.Android.csproj",
       "projectName": "APP_KTRA_ROUTER.Android",
-      "projectPath": "D:\\SOURCE CODE\\GIT_HUB_EMEC\\RF_SPIDER_HELPER_EMEC\\APP_KTRA_ROUTER\\APP_KTRA_ROUTER.Android\\APP_KTRA_ROUTER.Android.csproj",
+      "projectPath": "E:\\TUAN_SOURCE\\BUILD APP CENTER\\RF_SPIDER_HELPER_EMEC\\APP_KTRA_ROUTER\\APP_KTRA_ROUTER.Android\\APP_KTRA_ROUTER.Android.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "D:\\SOURCE CODE\\GIT_HUB_EMEC\\RF_SPIDER_HELPER_EMEC\\APP_KTRA_ROUTER\\APP_KTRA_ROUTER.Android\\obj\\",
+      "outputPath": "E:\\TUAN_SOURCE\\BUILD APP CENTER\\RF_SPIDER_HELPER_EMEC\\APP_KTRA_ROUTER\\APP_KTRA_ROUTER.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -6277,8 +6277,8 @@
       "frameworks": {
         "monoandroid10.0": {
           "projectReferences": {
-            "D:\\SOURCE CODE\\GIT_HUB_EMEC\\RF_SPIDER_HELPER_EMEC\\APP_KTRA_ROUTER\\APP_KTRA_ROUTER\\APP_KTRA_ROUTER.csproj": {
-              "projectPath": "D:\\SOURCE CODE\\GIT_HUB_EMEC\\RF_SPIDER_HELPER_EMEC\\APP_KTRA_ROUTER\\APP_KTRA_ROUTER\\APP_KTRA_ROUTER.csproj"
+            "E:\\TUAN_SOURCE\\BUILD APP CENTER\\RF_SPIDER_HELPER_EMEC\\APP_KTRA_ROUTER\\APP_KTRA_ROUTER\\APP_KTRA_ROUTER.csproj": {
+              "projectPath": "E:\\TUAN_SOURCE\\BUILD APP CENTER\\RF_SPIDER_HELPER_EMEC\\APP_KTRA_ROUTER\\APP_KTRA_ROUTER\\APP_KTRA_ROUTER.csproj"
             }
           }
         }

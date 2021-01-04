@@ -14,7 +14,7 @@ namespace APP_KTRA_ROUTER.Popup {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Popup\\Cbox_Tram.xaml")]
-    public partial class Cbox_Tram : global::Rg.Plugins.Popup.Pages.PopupPage {
+    public partial class Cbox_Tram : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private global::Xamarin.Forms.SearchBar search;

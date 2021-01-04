@@ -42,7 +42,7 @@ namespace APP_KTRA_ROUTER.Models
         public string CSQ { get; set; }
         public string Chiso { get; set; }
         public int RSSI { get; set; }
-        public DateTime? NgayGio { get; set; }
+        public string NgayGio { get; set; }
         public string ErrorCode { get; set; }
         string _typereg;
         public string TypeReq { get =>  _typereg; set { if (value == null) _typereg = ""; else _typereg = value;  } }

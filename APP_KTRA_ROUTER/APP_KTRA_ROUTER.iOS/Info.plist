@@ -48,8 +48,8 @@
 		<string>com.emec.APP_KTRA_ROUTER</string>
 	</array>
 	<key>CFBundleShortVersionString</key>
-	<string>17</string>
+	<string>18</string>
 	<key>CFBundleVersion</key>
-	<string>8</string>
+	<string>9</string>
 </dict>
 </plist>

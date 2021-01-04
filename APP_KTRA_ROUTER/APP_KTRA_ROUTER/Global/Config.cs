@@ -7,7 +7,7 @@ namespace APP_KTRA_ROUTER.Global
 {
     public class Config 
     {
-        public static string URL = "http://113.160.225.75/API_DCU_ROUTER/";
+        public static string URL = "http://smart.cpc.vn/DCU_ROUTER/";
         public static string User = "User";
         public static string Password = "Password";
         public static string Token { get; set; }

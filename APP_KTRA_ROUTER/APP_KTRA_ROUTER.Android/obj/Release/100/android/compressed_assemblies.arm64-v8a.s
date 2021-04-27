@@ -17,7 +17,7 @@
 
 	/* 1: APP_KTRA_ROUTER.dll */
 	/* uncompressed_file_size */
-	.word	268800
+	.word	264192
 	/* loaded */
 	.byte	0
 	/* data */

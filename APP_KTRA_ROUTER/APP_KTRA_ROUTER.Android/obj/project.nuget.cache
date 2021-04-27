@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "sSUxj1Gx0wds1WTv4hitIk/3dWPL16gG+rXd4WZ806o5OCtVGNE7w+DP87NVv4HW5dBfdKXeVPRcAg2XbJFIoA==",
+  "dgSpecHash": "bobTbIwDQvPA8hikU0QscPfAZ3zKZ55VsW/Uow6aNEXMlsHBHeEFiKsjelO4SPPjtVN4GNa6EbKvdamAx9a4AA==",
   "success": true,
   "projectFilePath": "E:\\TUAN_SOURCE\\BUILD APP CENTER\\RF_SPIDER_HELPER_EMEC\\APP_KTRA_ROUTER\\APP_KTRA_ROUTER.Android\\APP_KTRA_ROUTER.Android.csproj",
   "expectedPackageFiles": [
@@ -147,7 +147,6 @@
     "C:\\Users\\PC\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\xamarin.forms\\4.8.0.1269\\xamarin.forms.4.8.0.1269.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\xamarin.forms.maps\\4.8.0.1269\\xamarin.forms.maps.4.8.0.1269.nupkg.sha512",
-    "C:\\Users\\PC\\.nuget\\packages\\xamarin.forms.visual.material\\4.8.0.1269\\xamarin.forms.visual.material.4.8.0.1269.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\xamarin.google.android.material\\1.0.0.1\\xamarin.google.android.material.1.0.0.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\xamarin.googleplayservices.base\\71.1610.0\\xamarin.googleplayservices.base.71.1610.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\xamarin.googleplayservices.basement\\71.1620.0\\xamarin.googleplayservices.basement.71.1620.0.nupkg.sha512",

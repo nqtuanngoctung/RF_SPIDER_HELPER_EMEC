@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Z8Ar3obq+DRTk23fJKmtnUaASuTtUuZyCySAtOJwcy2h6jEbMiFo2PCPo96GkW323il2vRvZ0vpST23opvZCHw==",
+  "dgSpecHash": "PxGq9Wu52ocdaMUK/kdHQdrbHXa7+8+h2uyV5G/He2XURaEKchu+nQtZwRs5Ln5WehMtey+Q9lXcM9qTd4vwmw==",
   "success": true,
   "projectFilePath": "E:\\TUAN_SOURCE\\BUILD APP CENTER\\RF_SPIDER_HELPER_EMEC\\APP_KTRA_ROUTER\\APP_KTRA_ROUTER.iOS\\APP_KTRA_ROUTER.iOS.csproj",
   "expectedPackageFiles": [
@@ -72,8 +72,6 @@
     "C:\\Users\\PC\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\xamarin.forms\\4.8.0.1269\\xamarin.forms.4.8.0.1269.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\xamarin.forms.maps\\4.8.0.1269\\xamarin.forms.maps.4.8.0.1269.nupkg.sha512",
-    "C:\\Users\\PC\\.nuget\\packages\\xamarin.forms.visual.material\\4.8.0.1269\\xamarin.forms.visual.material.4.8.0.1269.nupkg.sha512",
-    "C:\\Users\\PC\\.nuget\\packages\\xamarin.ios.materialcomponents\\92.0.0\\xamarin.ios.materialcomponents.92.0.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\zxing.net.mobile\\2.4.1\\zxing.net.mobile.2.4.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\zxing.net.mobile.forms\\2.4.1\\zxing.net.mobile.forms.2.4.1.nupkg.sha512"
   ],

@@ -71,7 +71,9 @@ public class MonoPackageManager_Resources {
 		"Xamarin.AndroidX.VersionedParcelable.dll",
 		"Xamarin.AndroidX.ViewPager.dll",
 		"Xamarin.Google.Android.Material.dll",
+		"APP_KTRA_ROUTER.Android.dll",
 		"AndHUD.dll",
+		"APP_KTRA_ROUTER.dll",
 		"FastAndroidCamera.dll",
 		"FormsViewGroup.dll",
 		"Lottie.Android.dll",
@@ -150,8 +152,6 @@ public class MonoPackageManager_Resources {
 		"ZXing.Net.Mobile.Forms.dll",
 		"zxing.portable.dll",
 		"ZXingNetMobile.dll",
-		"APP_KTRA_ROUTER.Android.dll",
-		"APP_KTRA_ROUTER.dll",
 	};
 	public static String[] Dependencies = new String[]{
 	};

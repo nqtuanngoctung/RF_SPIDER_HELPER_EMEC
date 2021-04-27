@@ -1785,18 +1785,6 @@
           "lib/netstandard2.0/Xamarin.Forms.Maps.dll": {}
         }
       },
-      "Xamarin.Forms.Visual.Material/4.8.0.1269": {
-        "type": "package",
-        "dependencies": {
-          "Xamarin.Forms": "4.8.0.1269"
-        },
-        "compile": {
-          "lib/netstandard1.0/_._": {}
-        },
-        "runtime": {
-          "lib/netstandard1.0/_._": {}
-        }
-      },
       "ZXing.Net.Mobile/2.4.1": {
         "type": "package",
         "compile": {
@@ -6368,30 +6356,6 @@
         "xamarin.forms.maps.nuspec"
       ]
     },
-    "Xamarin.Forms.Visual.Material/4.8.0.1269": {
-      "sha512": "+dTcH08IeBVaEiaMMs6uvE5MyaO7J/KPD+bE3Zk903t9mWh/PUMFA9n4iGWibLFKXmkm+T9UPpFY+lbbaxSLgA==",
-      "type": "package",
-      "path": "xamarin.forms.visual.material/4.8.0.1269",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Assets/xamarin_128x128.png",
-        "build/MonoAndroid10/Xamarin.Forms.Visual.Material.targets",
-        "buildTransitive/MonoAndroid10/Xamarin.Forms.Visual.Material.targets",
-        "lib/MonoAndroid10.0/Xamarin.Forms.Material.dll",
-        "lib/MonoAndroid10.0/Xamarin.Forms.Material.pdb",
-        "lib/MonoAndroid10/_._",
-        "lib/MonoAndroid90/Xamarin.Forms.Material.dll",
-        "lib/MonoAndroid90/Xamarin.Forms.Material.pdb",
-        "lib/Xamarin.iOS10/Xamarin.Forms.Material.dll",
-        "lib/Xamarin.iOS10/Xamarin.Forms.Material.pdb",
-        "lib/netstandard1.0/_._",
-        "lib/tizen40/Xamarin.Forms.Material.dll",
-        "lib/tizen40/Xamarin.Forms.Material.pdb",
-        "xamarin.forms.visual.material.4.8.0.1269.nupkg.sha512",
-        "xamarin.forms.visual.material.nuspec"
-      ]
-    },
     "ZXing.Net.Mobile/2.4.1": {
       "sha512": "iCL2WcqOyUnC1iFFdzXijk0EXfoLMDqW88MyhoTZigSyhJZM2C5hKgSZVyfx9E35tgkde/IZwHkk8cVDnbQlYg==",
       "type": "package",
@@ -6460,7 +6424,6 @@
       "Xamarin.Essentials >= 1.5.3.2",
       "Xamarin.Forms >= 4.8.0.1269",
       "Xamarin.Forms.Maps >= 4.8.0.1269",
-      "Xamarin.Forms.Visual.Material >= 4.8.0.1269",
       "ZXing.Net.Mobile >= 2.4.1",
       "ZXing.Net.Mobile.Forms >= 2.4.1",
       "sqlite-net-pcl >= 1.7.335"
@@ -6595,10 +6558,6 @@
             "version": "[4.8.0.1269, )"
           },
           "Xamarin.Forms.Maps": {
-            "target": "Package",
-            "version": "[4.8.0.1269, )"
-          },
-          "Xamarin.Forms.Visual.Material": {
             "target": "Package",
             "version": "[4.8.0.1269, )"
           },

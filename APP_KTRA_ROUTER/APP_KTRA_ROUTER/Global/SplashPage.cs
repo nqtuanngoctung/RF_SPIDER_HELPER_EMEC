@@ -1,6 +1,7 @@
 ﻿using APP_KTRA_ROUTER.Interface;
 using APP_KTRA_ROUTER.Popup;
 using APP_KTRA_ROUTER.Views;
+using Lottie.Forms;
 using MQTTnet.Client;
 using Plugin.Connectivity;
 using System;
@@ -17,6 +18,7 @@ namespace APP_KTRA_ROUTER.Global
        // MqttClientRepository repository = new MqttClientRepository();
        // IMqttClient client;
         Image image;
+        AnimationView animation;
         public SplashPage()
         {
 
@@ -25,16 +27,26 @@ namespace APP_KTRA_ROUTER.Global
             {
                 NavigationPage.SetHasNavigationBar(this, false);
                 var sub = new AbsoluteLayout();
-                image = new Image
+                animation = new AnimationView
                 {
-                    Source = "logo.png",
-                    WidthRequest = 300,
-                    HeightRequest = 300
-
+                    VerticalOptions = LayoutOptions.FillAndExpand,
+                    HorizontalOptions = LayoutOptions.FillAndExpand,
+                    Animation = "working.json",
+                    AutoPlay = true,
+                    Loop = true,
+                    Speed = float.Parse("0.5")
                 };
-                AbsoluteLayout.SetLayoutFlags(image, AbsoluteLayoutFlags.PositionProportional);
-                AbsoluteLayout.SetLayoutBounds(image, new Rectangle(0.5, 0.5, AbsoluteLayout.AutoSize, AbsoluteLayout.AutoSize));
-                sub.Children.Add(image);
+                animation.Play();
+                //image = new Image
+                //{
+                //    Source = "logo.png",
+                //    WidthRequest = 300,
+                //    HeightRequest = 300
+
+                //};
+                AbsoluteLayout.SetLayoutFlags(animation, AbsoluteLayoutFlags.All);
+                AbsoluteLayout.SetLayoutBounds(animation, new Rectangle(0.5, 0.5, AbsoluteLayout.AutoSize, AbsoluteLayout.AutoSize));
+                sub.Children.Add(animation);
                 this.BackgroundColor = Color.White;
                 this.Content = sub;
             }

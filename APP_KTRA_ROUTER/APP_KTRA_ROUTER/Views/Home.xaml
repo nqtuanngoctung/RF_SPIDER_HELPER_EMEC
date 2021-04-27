@@ -10,7 +10,7 @@
     <ContentPage.Content>
         <StackLayout>
             <forms:AnimationView x:Name="animation"     
-                                 VerticalOptions="FillAndExpand"
+                                 VerticalOptions="FillAndExpand"                                   
                                  HorizontalOptions="FillAndExpand"
                                  Animation="working.json"
                                  AutoPlay="True"

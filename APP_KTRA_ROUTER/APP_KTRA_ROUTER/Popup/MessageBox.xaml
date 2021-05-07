@@ -34,7 +34,7 @@
                     <ColumnDefinition Width="1*"></ColumnDefinition>
                     <ColumnDefinition Width="8*"></ColumnDefinition>
                 </Grid.ColumnDefinitions>
-                <Image Source="information.jpg" Grid.Column="0" Aspect="AspectFit" WidthRequest="100" HeightRequest="100" HorizontalOptions="Center"></Image>
+                <Image Source="information" Grid.Column="0" Aspect="AspectFit" WidthRequest="100" HeightRequest="100" HorizontalOptions="Center"></Image>
                 <Label x:Name="lblThongBao" Grid.Column="1" Text="Vui Lòng đợi" 
                        TextColor="Black" HorizontalOptions="CenterAndExpand" 
                        VerticalOptions="CenterAndExpand" FontSize="Large" HorizontalTextAlignment="Start"/>

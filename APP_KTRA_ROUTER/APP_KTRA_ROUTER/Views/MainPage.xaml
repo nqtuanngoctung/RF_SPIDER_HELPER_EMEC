@@ -10,7 +10,6 @@
              xmlns:sfcombox="clr-namespace:Syncfusion.XForms.ComboBox;assembly=Syncfusion.SfComboBox.XForms"
              xmlns:local1="clr-namespace:APP_KTRA_ROUTER.Views"
              xmlns:local="clr-namespace:APP_KTRA_ROUTER.ViewModels"
-            
              Title="Kiểm Tra trạng thái thiết bị"            
              x:Class="APP_KTRA_ROUTER.Views.MainPage">
     <ContentPage.ToolbarItems>

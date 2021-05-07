@@ -70,7 +70,9 @@
         <ShellContent Title="Cài đặt" Icon="setting.png" IsTabStop="True" ContentTemplate="{DataTemplate local:Setting }"/>
 
     </FlyoutItem>
+    <MenuItem Text="Thông tin ứng dụng" Clicked="MenuItem_Clicked_1" IconImageSource="information.png">
 
+    </MenuItem>
     <MenuItem Text="Thoát" Clicked="MenuItem_Clicked" IconImageSource="offline.png">
         
     </MenuItem>

@@ -1,4 +1,5 @@
 ﻿using APP_KTRA_ROUTER.Interface;
+using APP_KTRA_ROUTER.Popup;
 using APP_KTRA_ROUTER.Views;
 using System;
 using System.Collections.Generic;
@@ -23,6 +24,11 @@ namespace APP_KTRA_ROUTER
         private void MenuItem_Clicked(object sender, EventArgs e)
         {
             App.Current.MainPage = new Login();
+        }
+
+        private async void MenuItem_Clicked_1(object sender, EventArgs e)
+        {
+            await new AppInformation().Show();
         }
     }
 }

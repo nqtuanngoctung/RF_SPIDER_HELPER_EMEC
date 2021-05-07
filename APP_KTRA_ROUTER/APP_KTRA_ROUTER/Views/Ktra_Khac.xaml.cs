@@ -137,6 +137,7 @@ namespace APP_KTRA_ROUTER.Views
         private async void scan_Clicked(object sender, EventArgs e)
         {
             var scan = new ZXingScannerPage();
+            scan.Title = "Quét barcode công tơ";
             await Navigation.PushAsync(scan);
             scan.OnScanResult += (result) =>
             {

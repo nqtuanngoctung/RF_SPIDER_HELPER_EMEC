@@ -25,6 +25,7 @@
                 <Setter Property="ClearButtonColor" Value="Red"></Setter>
                 <Setter Property="WatermarkColor" Value="Gray"></Setter>
             </Style>
+            <Color x:Key="Primary">#0c832f</Color>
             <Style TargetType="SearchBar" x:Key="styleSearch">
                 <Setter Property="TextColor" Value="#0F8523"></Setter>                
                 <Setter Property="FontSize" Value="16"></Setter>
@@ -59,6 +60,19 @@
                 <Setter Property="AllowTriStateSorting" Value="True"></Setter>
                 <Setter Property="AllowDiagonalScrolling" Value="True"></Setter>
                 <Setter Property="VerticalOverScrollMode" Value="None"></Setter> 
+            </Style>
+            <Style TargetType="Label" x:Key="styleLable">
+                <Setter Property="FontFamily" Value="Arial"/>
+                <Setter Property="LineBreakMode" Value="WordWrap"/>
+                <Setter Property="FontSize" Value="12"/>
+                <Setter Property="TextColor" Value="Black"/>
+                <Setter Property="VerticalTextAlignment" Value="Center"/>
+            </Style>
+            <Style TargetType="Label" x:Key="styleLableGreen">
+                <Setter Property="FontFamily" Value="Arial"/>
+                <Setter Property="TextColor" Value="{StaticResource Primary}"/>
+                <Setter Property="LineBreakMode" Value="WordWrap"/>
+                <Setter Property="VerticalTextAlignment" Value="Center"/>
             </Style>
         </ResourceDictionary>
     </Application.Resources>

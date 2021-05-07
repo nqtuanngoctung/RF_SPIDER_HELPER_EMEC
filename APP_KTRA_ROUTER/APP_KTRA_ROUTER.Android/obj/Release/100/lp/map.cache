@@ -57,7 +57,6 @@ Xamarin.AndroidX.VersionedParcelable
 Xamarin.AndroidX.ViewPager
 Xamarin.Essentials
 Xamarin.Forms.Maps.Android
-Xamarin.Forms.Material
 Xamarin.Forms.Platform.Android
 Xamarin.Forms.Platform
 Xamarin.Google.Android.Material
@@ -99,7 +98,7 @@ androidx.cardview.cardview
 androidx.appcompat.appcompat-resources
 androidx.appcompat.appcompat
 com.google.android.material.material
-androidx.lifecycle.lifecycle-livedata
 androidx.media.media
+androidx.lifecycle.lifecycle-livedata
 androidx.legacy.legacy-support-v4
 androidx.browser.browser

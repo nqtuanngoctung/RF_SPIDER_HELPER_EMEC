@@ -26,7 +26,7 @@ namespace APP_KTRA_ROUTER.iOS
         //
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
-            ZXing.Net.Mobile.Forms.iOS.Platform.Init();
+           
             global::Xamarin.Forms.Forms.SetFlags("CollectionView_Experimental");
             global::Xamarin.Forms.Forms.Init();                  
             Syncfusion.SfDataGrid.XForms.iOS.SfDataGridRenderer.Init();
@@ -35,6 +35,7 @@ namespace APP_KTRA_ROUTER.iOS
             Syncfusion.XForms.iOS.Buttons.SfButtonRenderer.Init();
             Syncfusion.XForms.iOS.Buttons.SfSwitchRenderer.Init();
             Lottie.Forms.iOS.Renderers.AnimationViewRenderer.Init();
+            ZXing.Net.Mobile.Forms.iOS.Platform.Init();
             SfMaskedEditRenderer.Init();
             SfTextInputLayoutRenderer.Init();
             new SfNumericTextBoxRenderer();

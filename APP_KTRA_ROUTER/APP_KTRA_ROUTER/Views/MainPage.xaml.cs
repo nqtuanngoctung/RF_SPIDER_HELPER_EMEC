@@ -41,10 +41,11 @@ namespace APP_KTRA_ROUTER.Views
                         if (item.TenDangNhap != Preferences.Get(Config.User, "")) return;
                         if (item.TypeReq == null) return;
                         if (item.MaTram != viewModel.SelectItemTram.MA_TRAM) return;
-                        if (item.TypeReq.ToLower() == "sys")
+                        if (item.TypeReq.ToLower() == "sys" || item.TypeReq.ToLower() == "readtram")
                         {
                             DependencyService.Get<IMessage>().ShortAlert(item.ErrorCode );
                         }
+                        
                     }
                     catch
                     {
@@ -103,6 +104,7 @@ namespace APP_KTRA_ROUTER.Views
         private async void btnScan_Clicked_1(object sender, EventArgs e)
         {
             var scan = new ZXingScannerPage();
+            scan.Title = "Quét barcode công tơ";
             await Navigation.PushAsync(scan);
             scan.OnScanResult += (ketqua) =>
             {
@@ -236,6 +238,26 @@ namespace APP_KTRA_ROUTER.Views
             {
 
               
+            }
+        }
+
+        private async void btnDocTram_Clicked(object sender, EventArgs e)
+        {
+            try
+            {
+                if (viewModel.SelectItemTram == null)
+                {
+                    await new MessageBox("thông báo", "Vui lòng chọn trạm").Show();
+                    return;
+                }
+                DcuMqttReq dcuMqtt = new DcuMqttReq { DcuID = Convert.ToUInt32(viewModel.SelectItemTram.ID_DCU), MaDviQly = viewModel.SelectItemDonVi.MA_DON_VI, MaTram = viewModel.SelectItemTram.MA_TRAM, TenDangNhap = Preferences.Get(Config.User, ""), MeterID = "", Path = "", Type = "", TypeReq = "ReadTram" };
+                MqttClientRepository.PublibMessage("EMEC/RFSPIDER/APP", JsonConvert.SerializeObject(dcuMqtt));
+                DependencyService.Get<IMessage>().ShortAlert("Đã gửi yêu cầu đọc toàn trạm. vui lòng chờ kết quả trả về");
+            }
+            catch (Exception)
+            {
+
+
             }
         }
     }

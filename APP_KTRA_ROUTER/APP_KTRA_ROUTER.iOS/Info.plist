@@ -43,7 +43,7 @@
 	<string>LaunchScreen</string>
 	<key>BGTaskSchedulerPermittedIdentifiers</key>
 	<array>
-		<string>com.emec.APP_KTRA_ROUTER</string>
+		<string>com.emec.hotrohientruong</string>
 	</array>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0.0</string>

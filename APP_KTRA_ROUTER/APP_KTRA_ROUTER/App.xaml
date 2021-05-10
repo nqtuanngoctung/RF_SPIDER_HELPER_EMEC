@@ -24,6 +24,7 @@
                 <Setter Property="AllowFiltering" Value="True"></Setter>
                 <Setter Property="ClearButtonColor" Value="Red"></Setter>
                 <Setter Property="WatermarkColor" Value="Gray"></Setter>
+                <Setter Property="HeightRequest" Value="{OnIdiom Phone = '50' , Tablet='100'}" />
             </Style>
             <Color x:Key="Primary">#0c832f</Color>
             <Style TargetType="SearchBar" x:Key="styleSearch">

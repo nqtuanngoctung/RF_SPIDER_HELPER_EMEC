@@ -18,8 +18,8 @@ namespace APP_KTRA_ROUTER.Database
         {
             _databasePath = databasePath;
             //Database.EnsureDeleted();             
-            Database.EnsureCreated();
-            Database.Migrate();
+            //Database.EnsureCreated();
+           //Database.Migrate();
 
         }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

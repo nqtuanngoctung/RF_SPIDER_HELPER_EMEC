@@ -2,8 +2,9 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <SelectedDevice>PC’s iPhone</SelectedDevice>
-    <DefaultDevice>iPhone 11 Pro Max iOS 13.2</DefaultDevice>
+    <DefaultDevice>iPad Pro %2812.9-inch%29 %285th generation%29 iOS 14.5</DefaultDevice>
     <DeveloperId />
     <DevelopmentTeamId />
+    <ActiveDebugProfile>PC’s iPhone</ActiveDebugProfile>
   </PropertyGroup>
 </Project>

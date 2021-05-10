@@ -39,8 +39,8 @@ namespace APP_KTRA_ROUTER.iOS
             SfMaskedEditRenderer.Init();
             SfTextInputLayoutRenderer.Init();
             new SfNumericTextBoxRenderer();
-            Rg.Plugins.Popup.Popup.Init();          
-            SQLitePCL.Batteries_V2.Init();
+            Rg.Plugins.Popup.Popup.Init();
+            //SQLitePCL.Batteries_V2.Init();
             var libpath = Path.Combine(System.Environment.GetFolderPath(System.Environment.SpecialFolder.MyDocuments), "..", "Library", "data");
             if (!Directory.Exists(libpath))
             {

@@ -43,12 +43,6 @@ com.google.android.material.tabs.TabLayout;E:\TUAN_SOURCE\BUILD APP CENTER\RF_SP
 com.google.android.material.tabs.TabLayout;obj\Debug\100\res\layout\tabbar.xml
 corners;E:\TUAN_SOURCE\BUILD APP CENTER\RF_SPIDER_HELPER_EMEC\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Debug\100\lp\0\jl\res\drawable\roundedbg.xml
 corners;E:\TUAN_SOURCE\BUILD APP CENTER\RF_SPIDER_HELPER_EMEC\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Debug\100\lp\0\jl\res\drawable\roundedbgdark.xml
-crc640cbed5f9e34be698.ColorPickerPanelView;E:\TUAN_SOURCE\BUILD APP CENTER\RF_SPIDER_HELPER_EMEC\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Debug\100\lp\16\jl\res\layout\dialog_color_picker.xml
-crc640cbed5f9e34be698.ColorPickerView;E:\TUAN_SOURCE\BUILD APP CENTER\RF_SPIDER_HELPER_EMEC\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Debug\100\lp\16\jl\res\layout\dialog_color_picker.xml
-crc64720bb2db43a66fe9.FormsViewPager;E:\TUAN_SOURCE\BUILD APP CENTER\RF_SPIDER_HELPER_EMEC\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Debug\100\lp\59\jl\res\layout\rootlayout.xml
-crc64765b1cc0eb6a85ad.ScrollViewer;E:\TUAN_SOURCE\BUILD APP CENTER\RF_SPIDER_HELPER_EMEC\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Debug\100\lp\12\jl\res\layout\scrollviewer.xml
-crc64e7a7d80ad38eba03.LinearLayoutDetectsSoftKeyboard;E:\TUAN_SOURCE\BUILD APP CENTER\RF_SPIDER_HELPER_EMEC\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Debug\100\lp\16\jl\res\layout\teditoractivity.xml
-crc64e7a7d80ad38eba03.TEditorWebView;E:\TUAN_SOURCE\BUILD APP CENTER\RF_SPIDER_HELPER_EMEC\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Debug\100\lp\16\jl\res\layout\teditoractivity.xml
 declare-styleable;E:\TUAN_SOURCE\BUILD APP CENTER\RF_SPIDER_HELPER_EMEC\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Debug\100\lp\0\jl\res\values\attrs.xml
 declare-styleable;E:\TUAN_SOURCE\BUILD APP CENTER\RF_SPIDER_HELPER_EMEC\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Debug\100\lp\14\jl\res\values\attrs.xml
 declare-styleable;E:\TUAN_SOURCE\BUILD APP CENTER\RF_SPIDER_HELPER_EMEC\APP_KTRA_ROUTER\APP_KTRA_ROUTER.Android\obj\Debug\100\lp\3\jl\res\values\values.xml

@@ -4,5 +4,6 @@
     <SelectedDevice>OPPO CPH1937</SelectedDevice>
     <AndroidDesignerPreferredTheme>Theme.AppCompat.Light.NoActionBar</AndroidDesignerPreferredTheme>
     <DefaultDevice>nexus_5_pie_9_0_-_api_28</DefaultDevice>
+    <ActiveDebugProfile>OPPO CPH1937</ActiveDebugProfile>
   </PropertyGroup>
 </Project>

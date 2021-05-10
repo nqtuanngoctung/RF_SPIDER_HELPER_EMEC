@@ -44,6 +44,7 @@ namespace APP_KTRA_ROUTER.Views
                         if (item.TypeReq.ToLower() == "sys" || item.TypeReq.ToLower() == "readtram")
                         {
                             DependencyService.Get<IMessage>().ShortAlert(item.ErrorCode );
+                            viewModel.LoadDCUCommand.Execute(viewModel.SelectItemTram);
                         }
                         
                     }

@@ -7,7 +7,7 @@ namespace APP_KTRA_ROUTER.Global
 {
     public class Config 
     {
-        public static string URL = "http://smart.cpc.vn/DCU_ROUTER/";
+        public static string URL = "";
         public static string User = "User";
         public static string Password = "Password";
         public static string Token { get; set; }
@@ -26,6 +26,15 @@ namespace APP_KTRA_ROUTER.Global
         public static readonly string nam = "nam";
         public Config()
         {
+            if (Device.RuntimePlatform == Device.iOS)
+            { 
+                URL = "http://113.160.225.75:80/API_DCU_ROUTER/";
+            }    
+            else
+            {
+                URL = "http://smart.cpc.vn/DCU_ROUTER/";
+            }    
+                
             if (client == null)
             {
                 client = new System.Net.Http.HttpClient();

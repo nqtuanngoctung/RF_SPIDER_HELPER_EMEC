@@ -213,6 +213,7 @@ namespace APP_KTRA_ROUTER.ViewModels
             try
             {
                 await DependencyService.Get<IProcessLoader>().Show("Đang tải dữ liệu vui lòng đợi");
+                await Task.Delay(1000);
                 var _json = Config.client.GetStringAsync(Config.URL + "api/home/GET_DCU_HISTORY?donvi=" + Xamarin.Essentials.Preferences.Get(Config.DonVi, "") + "&matram=" + tRAM.MA_TRAM ).Result;
                 _json = _json.Replace("\\r\\n", "").Replace("\\", "");
 

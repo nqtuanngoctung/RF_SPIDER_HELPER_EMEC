@@ -25,6 +25,7 @@
            Margin="10"
            OutlineColor="White"
            HorizontalOptions="FillAndExpand"
+           BackgroundColor="White"
            VerticalOptions="Center">
         <StackLayout HorizontalOptions="FillAndExpand">
             <Grid>

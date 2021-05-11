@@ -130,6 +130,7 @@
         <Label x:Name="lblThongBao" FontAttributes="Bold" FontSize="12"/>
         <Frame BorderColor="Black">
             <ListView x:Name="lstViewResult" 
+                      BackgroundColor="White"
                           HasUnevenRows="True">
                 <ListView.ItemTemplate>
                     <DataTemplate>

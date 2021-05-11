@@ -187,6 +187,7 @@ namespace APP_KTRA_ROUTER.ViewModels
             try
             {
                 await DependencyService.Get<IProcessLoader>().Show("Đang kiểm tra....");
+                await Task.Delay(1000);
                 if  (Xamarin.Essentials.Preferences.Get(Config.DonVi,"") != "")
                 {
                     string str = Config.URL + "api/home/TIM_CONG_TO?donvi=" + Xamarin.Essentials.Preferences.Get(Config.DonVi, "") + "&serial=" + socongto;

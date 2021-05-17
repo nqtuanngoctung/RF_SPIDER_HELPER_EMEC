@@ -40,15 +40,15 @@ namespace APP_KTRA_ROUTER.Views
                 HttpClient client = new HttpClient();
 
                 var response = client.GetStringAsync(Config.URL + "api/home/GetUserAD?username=" + btnusername.Text + "&password=" + btnpassword.Text).Result;
-                await Task.Delay(3000);
+                await Task.Delay(1000);
 
-                //if (response == "false")
-                //{
+                if (response == "false")
+                {
 
-                //    await DisplayAlert("Thông Báo", "Thông tin đăng nhập không chính xác", "Ok");                   
-                //    await DependencyService.Get<IProcessLoader>().Hide();
-                //    return;
-                //}
+                    await DisplayAlert("Thông Báo", "Thông tin đăng nhập không chính xác", "Ok");
+                    await DependencyService.Get<IProcessLoader>().Hide();
+                    return;
+                }
 
                 await DependencyService.Get<IProcessLoader>().Hide();
                 if (swRememer.IsOn == true)
@@ -64,6 +64,11 @@ namespace APP_KTRA_ROUTER.Views
                 await DependencyService.Get<IProcessLoader>().Hide();
                 await DisplayAlert("Lỗi", ex.Message, "Ok");
             }
+        }
+
+        private async void SfButton_Clicked_1(object sender, EventArgs e)
+        {
+            await new Popup.RegestryUser().Show();
         }
     }
 }

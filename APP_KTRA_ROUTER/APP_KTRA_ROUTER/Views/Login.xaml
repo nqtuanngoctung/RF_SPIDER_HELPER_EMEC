@@ -26,7 +26,7 @@
                 <RowDefinition Height="Auto"/>
                 <RowDefinition Height="Auto"/>
                 <RowDefinition Height="Auto"/>
-                <RowDefinition Height="40"/>
+                <RowDefinition Height="60"/>
             </Grid.RowDefinitions>
             <Image Source="logo.png" Grid.Row="0"></Image>
 
@@ -79,14 +79,21 @@
 
 
             </StackLayout>
-            <StackLayout Grid.Row="6" VerticalOptions="Fill" Padding="10,5,10,5">              
+            <StackLayout Grid.Row="6" VerticalOptions="FillAndExpand" Padding="10,5,10,5" Orientation="Horizontal" HorizontalOptions="FillAndExpand">              
 
                 <sfbutton:SfButton Text="Đăng Nhập"                                    
                     CornerRadius="60"                   
                     BackgroundColor="ForestGreen"                   
                     Clicked="SfButton_Clicked"
                     TextColor="White"
-                    FontSize="Large"/>
+                                   HorizontalOptions="FillAndExpand"
+                    FontSize="Large" Padding="10"/>
+                <sfbutton:SfButton Text="Đăng Ký"                                    
+                    CornerRadius="60" 
+                    Clicked="SfButton_Clicked_1"
+                    TextColor="White"
+                                   HorizontalOptions="FillAndExpand"
+                    FontSize="Large" Padding="10"/>
             </StackLayout>
 
             <StackLayout Grid.Row="8" Orientation="Vertical" VerticalOptions="CenterAndExpand" HorizontalOptions="Center">

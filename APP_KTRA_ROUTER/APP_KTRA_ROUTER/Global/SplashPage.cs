@@ -73,17 +73,26 @@ namespace APP_KTRA_ROUTER.Global
             }
             //kiêm tra xem user có thay đổi k
             try
-            {
-               
+            {              
 
 
                 //MqttClientRepository.client  = repository.Create("113.160.225.75", 1883, "lucnv", "lucnv", new List<string> { "RFSPIDER_RECEIVE" }, Guid.NewGuid().ToString ());
-                var response = Config.client.GetStringAsync(Config.URL + "api/home/GetUserAD?username=" + Preferences.Get(Config.User, "1") + "&password=" + Preferences.Get(Config.Password, "1")).Result;
-                if (response == "false")
-                    App.Current.MainPage = new Login();
-                else
-                    App.Current.MainPage = new AppShell();
+               
                 
+                if (Device.RuntimePlatform == Device.iOS)
+                {
+                    Preferences.Set(Config.User, "appios");
+                    App.Current.MainPage = new AppShell();
+                }
+                else
+                {
+                    var response = Config.client.GetStringAsync(Config.URL + "api/home/GetUserAD?username=" + Preferences.Get(Config.User, "1") + "&password=" + Preferences.Get(Config.Password, "1")).Result;
+                    if (response == "false")
+                        App.Current.MainPage = new Login();
+                    else
+                        App.Current.MainPage = new AppShell();
+                }    
+
             }
             catch (Exception ex)
             {

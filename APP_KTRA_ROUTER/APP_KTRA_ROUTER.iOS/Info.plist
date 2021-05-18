@@ -23,7 +23,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>RF SPIDER - HELPER</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.emec.hotrohientruong</string>
+	<string>com.emec.kiemtradcu</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>CFBundleName</key>
@@ -43,12 +43,12 @@
 	<string>LaunchScreen</string>
 	<key>BGTaskSchedulerPermittedIdentifiers</key>
 	<array>
-		<string>com.emec.hotrohientruong</string>
+		<string>com.emec.kiemtradcu</string>
 	</array>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0.2</string>
+	<string>1.0.0</string>
 	<key>CFBundleVersion</key>
-	<string>1.0.2</string>
+	<string>1.0.0</string>
 	<key>NSCameraUsageDescription</key>
 	<string>This app needs access to the camera to take photos.</string>
 	<key>NSPhotoLibraryUsageDescription</key>

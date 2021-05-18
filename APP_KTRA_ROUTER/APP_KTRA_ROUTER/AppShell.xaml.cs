@@ -23,6 +23,7 @@ namespace APP_KTRA_ROUTER
 
         private void MenuItem_Clicked(object sender, EventArgs e)
         {
+            if (Device.RuntimePlatform != Device.iOS )
             App.Current.MainPage = new Login();
         }
 

@@ -37,7 +37,7 @@ namespace APP_KTRA_ROUTER.Popup
             if (Device.RuntimePlatform == Device.Android)
                 url = "https://play.google.com/store/apps/details?id=com.companyname.app_ktra_router";
             else if (Device.RuntimePlatform == Device.iOS)
-                url = "https://itunes.apple.com/" + location + "/app/rf-spider-helper/id1539124307";
+                url = "https://itunes.apple.com/" + location + "/app/kiemtradcu/id1568009995";
             await Browser.OpenAsync(url, BrowserLaunchMode.External);
         }
     }

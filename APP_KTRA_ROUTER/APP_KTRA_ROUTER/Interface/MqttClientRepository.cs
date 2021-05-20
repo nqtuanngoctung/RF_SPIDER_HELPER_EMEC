@@ -106,7 +106,7 @@ namespace APP_KTRA_ROUTER.Interface
             }
             catch (Exception ex)
             {
-
+                if (Device.RuntimePlatform != Device.iOS )
                 await new MessageBox("Thông Báo", ex.Message).Show();
             }
            
@@ -125,9 +125,18 @@ namespace APP_KTRA_ROUTER.Interface
         }
 
         public async Task HandleDisconnectedAsync(MqttClientDisconnectedEventArgs eventArgs)
-        {           
-            await new MessageBox("Thông Báo", "Mất kết nối đến server").Show();
-            await _client.ReconnectAsync();
+        {
+            try
+            {
+                if (Device.RuntimePlatform != Device.iOS )
+                await new MessageBox("Thông Báo", "Mất kết nối đến server").Show();
+                await _client.ReconnectAsync();
+            }
+            catch 
+            {
+               
+            }
+            
         }
     }
 
